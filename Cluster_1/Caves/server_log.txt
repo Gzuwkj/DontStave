@@ -1,38 +1,38 @@
 [00:00:00]: 
 System Memory:
-	Memory Load: 46%
-	Available Physical Memory: 6442m/12150m
-	Available Page File: 6090m/14006m
+	Memory Load: 33%
+	Available Physical Memory: 8104m/12150m
+	Available Page File: 6533m/14006m
 	Available Virtual Memory: 3985m/4095m
 	Available Extended Virtual Memory: 0m
 [00:00:00]: 
 Process Memory:
 	Peak Working Set Size: 30m
-	Working Set Size: 30m
-	Quota Peak Page Pool Usage: 221k
-	Quota Page Pool Usage: 215k
+	Working Set Size: 29m
+	Quota Peak Page Pool Usage: 220k
+	Quota Page Pool Usage: 214k
 	Quota Peak Non Paged Pool Usage:17k
 	Quota Non Paged Pool Usage: 16k
 	Page File Usage: 5m
 	Peak Page File Usage: 5m
 [00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/845328992/Cluster_1/Caves/ 
 [00:00:00]: Starting Up
-[00:00:00]: Version: 406549
-[00:00:00]: Current time: Fri Apr 24 23:26:08 2020
+[00:00:00]: Version: 406832
+[00:00:00]: Current time: Sat Apr 25 21:39:47 2020
 
-[00:00:00]: Don't Starve Together: 406549 WIN32
-[00:00:00]: Build Date: 5235
+[00:00:00]: Don't Starve Together: 406832 WIN32
+[00:00:00]: Build Date: 5242
 [00:00:00]: Mode: 32-bit
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -monitor_parent_process 2032 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -ownernetid 76561198805594720 -ownerdir 845328992 -backup_log_count 10 -backup_log_period 0 -shard Caves -sigprefix DST_Slave -region EU 
+[00:00:00]: Command Line Arguments: -monitor_parent_process 7156 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -ownernetid 76561198805594720 -ownerdir 845328992 -backup_log_count 10 -backup_log_period 0 -shard Caves -sigprefix DST_Slave -region Sing 
 [00:00:00]: Initializing distribution platform
 [00:00:00]: Initializing Minidump handler
 [00:00:00]: ....Done
 [00:00:00]: ....Done
 [00:00:00]: Fixing DPI
 [00:00:00]: ...Done
-[00:00:00]: THREAD - started 'GAClient' (10316)
 [00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (9236)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
@@ -40,23 +40,23 @@ Process Memory:
 [00:00:00]: Mounting file system databundles/bigportraits.zip successful.
 [00:00:00]: Mounting file system databundles/images.zip successful.
 [00:00:00]: Mounting file system databundles/scripts.zip successful.
-[00:00:00]: ProfileIndex:4.15
+[00:00:00]: ProfileIndex:4.23
 [00:00:00]: [Connect] PendingConnection::Reset(true)
-[00:00:00]: THREAD - started 'Ping Job Thread' (840)
 [00:00:00]: Platform: 1
 [00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: [Warning] Authorized application E:\apps\steam\steamapps\common\Don't Starve Together\bin\dontstarve_dedicated_server_nullrenderer.exe is not setup in the firewall.
-[00:00:00]: Authorized application E:\apps\steam\steamapps\common\Don't Starve Together\bin\dontstarve_dedicated_server_nullrenderer.exe is now enabled in the firewall.
-[00:00:00]: Overriding region to EU
-[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/845328992/client_save/blocklist.txt (Failure)
-[00:00:00]: THREAD - started 'StreamInput' (4788)
-[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/845328992/client_save/adminlist.txt (Failure)
-[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/845328992/client_save/whitelist.txt (Failure)
-[00:00:00]: Offline user ID: OU_76561198805594720
-[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/845328992/Cluster_1/cluster_token.txt
-[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/845328992/Cluster_1/cluster_token.txt
-[00:00:00]: HardwareStats:
+[00:00:00]: THREAD - started 'Ping Job Thread' (3644)
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application E:\apps\steam\steamapps\common\Don't Starve Together\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: Overriding region to Sing
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/845328992/client_save/blocklist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (9620)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/845328992/client_save/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/845328992/client_save/whitelist.txt (Failure)
+[00:00:01]: Offline user ID: OU_76561198805594720
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/845328992/Cluster_1/cluster_token.txt
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/845328992/Cluster_1/cluster_token.txt
+[00:00:01]: HardwareStats:
   OS                        
     name                      Microsoft Windows 10 家庭中文版
     version                   10.0.18363
@@ -78,17 +78,17 @@ Process Memory:
     videoModeDescription      1920 x 1080 x 4294967296 种颜色
     driverVersion             26.20.100.7262
 
-[00:00:00]: cGame::InitializeOnMainThread
-[00:00:00]: Renderer initialize: Okay
-[00:00:00]: AnimManager initialize: Okay
-[00:00:00]: Buffers initialize: Okay
-[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
-[00:00:00]: GameSpecific initialize: Okay
-[00:00:00]: cGame::StartPlaying
-[00:00:00]: LOADING LUA
-[00:00:00]: DoLuaFile scripts/main.lua
-[00:00:00]: DoLuaFile loading buffer scripts/main.lua
-[00:00:00]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
 [00:00:02]:   taskgrouplist:	default	联机版	
 [00:00:02]:   taskgrouplist:	classic	经典	
 [00:00:02]:   taskgrouplist:	cave_default	地下	
@@ -96,284 +96,794 @@ Process Memory:
 [00:00:02]:   taskgrouplist:	quagmire_taskset	暴食	
 [00:00:02]: running main.lua
 	
-[00:00:02]: loaded modindex	
+[00:00:02]: Could not load modindex	
 [00:00:02]: ModIndex: Beginning normal load sequence for dedicated server.
 	
 [00:00:02]: DownloadMods(0)
-[00:00:02]: modoverrides.lua enabling workshop-1207269058	
-[00:00:02]: modoverrides.lua enabling workshop-623749604	
-[00:00:02]: modoverrides.lua enabling workshop-666155465	
-[00:00:02]: modoverrides.lua enabling workshop-501385076	
-[00:00:02]: modoverrides.lua enabling workshop-347079953	
-[00:00:02]: modoverrides.lua enabling workshop-375850593	
-[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
-[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
-[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
-[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
-[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-623749604	
-[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
-[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-623749604	
-[00:00:02]: Overriding mod workshop-623749604's option FoodSpoilage with value 1	
-[00:00:02]: Overriding mod workshop-623749604's option Destroyable with value DestroyByAll	
-[00:00:02]: Overriding mod workshop-623749604's option Slots with value 80	
-[00:00:02]: Overriding mod workshop-623749604's option Position with value Center	
-[00:00:02]: Overriding mod workshop-623749604's option Language with value En	
-[00:00:02]: Overriding mod workshop-623749604's option Craft with value Normal	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
-[00:00:02]: Overriding mod workshop-666155465's option chestR with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_style with value 0	
-[00:00:02]: Overriding mod workshop-666155465's option show_uses with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option show_food_units with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option lang with value auto	
-[00:00:02]: Overriding mod workshop-666155465's option chestB with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_order with value 0	
-[00:00:02]: Overriding mod workshop-666155465's option chestG with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_estimation with value -1	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
-[00:00:02]: Overriding mod workshop-501385076's option quick_harvest with value true	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
-[00:00:02]: Overriding mod workshop-347079953's option DFV_Language with value EN	
-[00:00:02]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
-[00:00:02]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.12	
-[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-623749604	
-[00:00:02]: Overriding mod workshop-623749604's option FoodSpoilage with value 1	
-[00:00:02]: Overriding mod workshop-623749604's option Destroyable with value DestroyByAll	
-[00:00:02]: Overriding mod workshop-623749604's option Slots with value 80	
-[00:00:02]: Overriding mod workshop-623749604's option Position with value Center	
-[00:00:02]: Overriding mod workshop-623749604's option Language with value En	
-[00:00:02]: Overriding mod workshop-623749604's option Craft with value Normal	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
-[00:00:02]: Overriding mod workshop-666155465's option chestR with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_style with value 0	
-[00:00:02]: Overriding mod workshop-666155465's option show_uses with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option show_food_units with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option lang with value auto	
-[00:00:02]: Overriding mod workshop-666155465's option chestB with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_order with value 0	
-[00:00:02]: Overriding mod workshop-666155465's option chestG with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_estimation with value -1	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
-[00:00:02]: Overriding mod workshop-501385076's option quick_harvest with value true	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
-[00:00:02]: Overriding mod workshop-347079953's option DFV_Language with value EN	
-[00:00:02]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
-[00:00:02]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
-[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-375850593_CLIENT	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-623749604	
-[00:00:02]: Overriding mod workshop-623749604's option FoodSpoilage with value 1	
-[00:00:02]: Overriding mod workshop-623749604's option Destroyable with value DestroyByAll	
-[00:00:02]: Overriding mod workshop-623749604's option Slots with value 80	
-[00:00:02]: Overriding mod workshop-623749604's option Position with value Center	
-[00:00:02]: Overriding mod workshop-623749604's option Language with value En	
-[00:00:02]: Overriding mod workshop-623749604's option Craft with value Normal	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
-[00:00:02]: Overriding mod workshop-666155465's option chestR with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_style with value 0	
-[00:00:02]: Overriding mod workshop-666155465's option show_uses with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option show_food_units with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option lang with value auto	
-[00:00:02]: Overriding mod workshop-666155465's option chestB with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_order with value 0	
-[00:00:02]: Overriding mod workshop-666155465's option chestG with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_estimation with value -1	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
-[00:00:02]: Overriding mod workshop-501385076's option quick_harvest with value true	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
-[00:00:02]: Overriding mod workshop-347079953's option DFV_Language with value EN	
-[00:00:02]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
-[00:00:02]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
-[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-501385076_CLIENT	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-623749604	
-[00:00:02]: Overriding mod workshop-623749604's option FoodSpoilage with value 1	
-[00:00:02]: Overriding mod workshop-623749604's option Destroyable with value DestroyByAll	
-[00:00:02]: Overriding mod workshop-623749604's option Slots with value 80	
-[00:00:02]: Overriding mod workshop-623749604's option Position with value Center	
-[00:00:02]: Overriding mod workshop-623749604's option Language with value En	
-[00:00:02]: Overriding mod workshop-623749604's option Craft with value Normal	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
-[00:00:02]: Overriding mod workshop-666155465's option chestR with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_style with value 0	
-[00:00:02]: Overriding mod workshop-666155465's option show_uses with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option show_food_units with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option lang with value auto	
-[00:00:02]: Overriding mod workshop-666155465's option chestB with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_order with value 0	
-[00:00:02]: Overriding mod workshop-666155465's option chestG with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_estimation with value -1	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
-[00:00:02]: Overriding mod workshop-501385076's option quick_harvest with value true	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
-[00:00:02]: Overriding mod workshop-347079953's option DFV_Language with value EN	
-[00:00:02]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
-[00:00:02]: Loading mod: workshop-501385076 (Quick Pick) Version:1.2.0	
-[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-623749604_CLIENT	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-623749604	
-[00:00:02]: Overriding mod workshop-623749604's option FoodSpoilage with value 1	
-[00:00:02]: Overriding mod workshop-623749604's option Destroyable with value DestroyByAll	
-[00:00:02]: Overriding mod workshop-623749604's option Slots with value 80	
-[00:00:02]: Overriding mod workshop-623749604's option Position with value Center	
-[00:00:02]: Overriding mod workshop-623749604's option Language with value En	
-[00:00:02]: Overriding mod workshop-623749604's option Craft with value Normal	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
-[00:00:02]: Overriding mod workshop-666155465's option chestR with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_style with value 0	
-[00:00:02]: Overriding mod workshop-666155465's option show_uses with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option show_food_units with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option lang with value auto	
-[00:00:02]: Overriding mod workshop-666155465's option chestB with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_order with value 0	
-[00:00:02]: Overriding mod workshop-666155465's option chestG with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_estimation with value -1	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
-[00:00:02]: Overriding mod workshop-501385076's option quick_harvest with value true	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
-[00:00:02]: Overriding mod workshop-347079953's option DFV_Language with value EN	
-[00:00:02]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
-[00:00:02]: Loading mod: workshop-623749604 ( Storeroom) Version:2.5a	
-[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-623749604	
-[00:00:02]: Overriding mod workshop-623749604's option FoodSpoilage with value 1	
-[00:00:02]: Overriding mod workshop-623749604's option Destroyable with value DestroyByAll	
-[00:00:02]: Overriding mod workshop-623749604's option Slots with value 80	
-[00:00:02]: Overriding mod workshop-623749604's option Position with value Center	
-[00:00:02]: Overriding mod workshop-623749604's option Language with value En	
-[00:00:02]: Overriding mod workshop-623749604's option Craft with value Normal	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
-[00:00:02]: Overriding mod workshop-666155465's option chestR with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_style with value 0	
-[00:00:02]: Overriding mod workshop-666155465's option show_uses with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option show_food_units with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option lang with value auto	
-[00:00:02]: Overriding mod workshop-666155465's option chestB with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_order with value 0	
-[00:00:02]: Overriding mod workshop-666155465's option chestG with value -1	
-[00:00:02]: Overriding mod workshop-666155465's option food_estimation with value -1	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
-[00:00:02]: Overriding mod workshop-501385076's option quick_harvest with value true	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
-[00:00:02]: Overriding mod workshop-347079953's option DFV_Language with value EN	
-[00:00:02]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
-[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
-[00:00:02]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.50	
-[00:00:02]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
-[00:00:02]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:02]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmain.lua	
-[00:00:02]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
-[00:00:02]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:02]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
-[00:00:02]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
-[00:00:02]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:02]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
-[00:00:02]: ShowMe version:	0.50	
-[00:00:02]: show_food_units	-1	-1	-1	
-[00:00:02]: show_uses	-1	-1	-1	
-[00:00:02]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
-[00:00:02]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:02]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
-[00:00:02]: Mod: workshop-623749604 ( Storeroom)	Loading modworldgenmain.lua	
-[00:00:02]: Mod: workshop-623749604 ( Storeroom)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:02]: Mod: workshop-623749604 ( Storeroom)	Loading modmain.lua	
-[00:00:02]: Storeroom perishable is loaded	
-[00:00:02]: modimport: ../mods/workshop-623749604/perishable/dst.lua	
-[00:00:02]: ----- STOREROOM DEBUG ----- 	
-[00:00:02]: slots = 80	
-[00:00:02]: perish = 1	
-[00:00:02]: recipe: cutstone = 20 marble = 4 boards = 20	
-[00:00:02]: widget: widgetanimbank = ui_chest_5x16 widgetpos = 	(0.00, 160.00, 0.00)	 slot_x = 15 slot_y = 4 posslot_x = 91 posslot_y = 42	
-[00:00:02]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
-[00:00:02]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:02]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
-[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
-[00:00:03]: LOADING LUA SUCCESS
-[00:00:03]: Registering mod namespace "workshop-1207269058"
-[00:00:03]: Registering mod namespace "food item"
-[00:00:03]: Registering mod namespace "showmeshint"
-[00:00:03]: Registering mod namespace "showme"
-[00:00:03]: PlayerDeaths could not load morgue	
-[00:00:03]: PlayerHistory could not load player_history	
-[00:00:03]: ServerPreferences could not load server_preferences	
-[00:00:03]: bloom_enabled	false	
-[00:00:03]: Could not load saveindex	
-[00:00:03]: OnFilesLoaded()	
-[00:00:03]: OnUpdatePurchaseStateComplete	
-[00:00:03]: Klump load on boot started.	
-[00:00:03]: Klump files loaded: 	0	
-[00:00:05]: Mod: workshop-375850593 (Extra Equip Slots)	Registering prefabs	
-[00:00:05]: Mod: workshop-375850593 (Extra Equip Slots)	  Registering default mod prefab	
-[00:00:05]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
-[00:00:05]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
-[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
-[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
-[00:00:05]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
-[00:00:05]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
-[00:00:05]: Mod: workshop-623749604 ( Storeroom)	Registering prefabs	
-[00:00:05]: Mod: workshop-623749604 ( Storeroom)	  Registering prefab file: prefabs/storeroom	
-[00:00:05]: Mod: workshop-623749604 ( Storeroom)	    storeroom	
-[00:00:05]: Mod: workshop-623749604 ( Storeroom)	    storeroom_placer	
-[00:00:05]: Mod: workshop-623749604 ( Storeroom)	  Registering default mod prefab	
-[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
-[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
-[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
-[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
-[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
-[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
-[00:00:05]: 	Load FE	
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: PlayerDeaths could not load morgue	
+[00:00:04]: PlayerHistory could not load player_history	
+[00:00:04]: ServerPreferences could not load server_preferences	
+[00:00:04]: bloom_enabled	false	
+[00:00:04]: Could not load saveindex	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: Klump load on boot started.	
+[00:00:04]: Klump files loaded: 	0	
+[00:00:06]: 	Load FE	
 [00:00:06]: 	Load FE: done	
+[00:00:06]: THREAD - started 'FilesExistAsyncThread' (6644)
+[00:00:06]: FilesExistAsyncThread started (15361 files)...
 [00:00:06]: Check for write access: TRUE
-[00:00:06]: THREAD - started 'FilesExistAsyncThread' (3632)
 [00:00:06]: Check for read access: TRUE
-[00:00:06]: FilesExistAsyncThread started (15365 files)...
 [00:00:06]: ModIndex: Load sequence finished successfully.	
 [00:00:06]: Reset() returning
-[00:00:06]: [IPC] Signal 'DST_Slave_Kill' opened  #00000528
-[00:00:06]: [IPC] Registering handler for signal #00000528
-[00:00:06]: [IPC] Handle #00000528 added to the Eventhandles
-[00:00:06]: [IPC] Signal 'DST_Slave_Starting' opened  #00000598
-[00:00:06]: [IPC] Sending signal... #00000598
+[00:00:06]: [IPC] Signal 'DST_Slave_Kill' opened  #00000544
+[00:00:06]: [IPC] Registering handler for signal #00000544
+[00:00:06]: [IPC] Handle #00000544 added to the Eventhandles
+[00:00:06]: [IPC] Signal 'DST_Slave_Starting' opened  #00000510
+[00:00:06]: [IPC] Sending signal... #00000510
 [00:00:07]: ... FilesExistAsyncThread complete
-[00:00:08]: CURL ERROR: (dst.metrics.klei.com) Operation timed out after 0 milliseconds with 0 out of 0 bytes received
-[00:00:47]: CURL ERROR: (login.kleientertainment.com) Failed to connect to login.kleientertainment.com port 443: Timed out
-[00:00:47]: [0] Account Failed (6): ""
-[00:00:47]: [Warning] Empty error code received, dumping response:
-[00:00:47]: 
-[00:00:47]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-[00:00:47]: !!!! Your Server Will Not Start !!!!
-[00:00:47]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-[00:00:47]: No auth token could be found.
-[00:00:47]: To generate a cluster_token you must
-[00:00:47]: open the console from a logged-in game
-[00:00:47]: client with the tilda key (~ / �) and type:
-[00:00:47]: TheNet:GenerateClusterToken()
-[00:00:47]: This will create 'cluster_token.txt' in
-[00:00:47]: your client settings directory. Copy this
-[00:00:47]: into your cluster settings directory.
-[00:00:47]: [IPC] Signal 'DST_Slave_ErrStartup' opened  #000005F8
-[00:00:47]: [IPC] Sending signal... #000005F8
-[00:00:47]: [Connect] PendingConnection::Reset(true)
-[00:00:52]: [IPC] Received shutdown signal.
-[00:00:52]: Collecting garbage...
-[00:00:52]: lua_gc took 0.03 seconds
-[00:00:52]: ~ShardLuaProxy()
-[00:00:52]: ~cEventLeaderboardProxy()
-[00:00:52]: ~ItemServerLuaProxy()
-[00:00:52]: ~InventoryLuaProxy()
-[00:00:52]: ~NetworkLuaProxy()
-[00:00:52]: ~SimLuaProxy()
-[00:00:52]: lua_close took 0.05 seconds
-[00:00:52]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:52]: CurlRequestManager::ClientThread::Main() complete
-[00:00:52]: HttpClient2 discarded 0 callbacks.
-[00:00:52]: Shutting down
+[00:00:25]: [200] Account Communication Success (6)
+[00:00:25]: Received (KU_j_aPg5rg) from TokenPurpose
+[00:00:25]: Starting Dedicated Server Game	
+[00:00:25]: Network tick rate: U=15(2), D=0
+[00:00:25]: About to start a server with the following settings:
+[00:00:25]:   Dedicated: true
+[00:00:25]:   Online: true
+[00:00:25]:   Passworded: true
+[00:00:25]:   ServerPort: 10998
+[00:00:25]:   SteamAuthPort: 8767
+[00:00:25]:   SteamMasterServerPort: 27017
+[00:00:25]:   ClanID: false
+[00:00:25]:   ClanOnly: false
+[00:00:25]:   ClanAdmin: false
+[00:00:25]:   LanOnly: false
+[00:00:25]:   FriendsOnly: false
+[00:00:25]:   EnableAutosaver: true
+[00:00:25]:   EncodeUserPath: true
+[00:00:25]:   PVP: false
+[00:00:25]:   MaxPlayers: 6
+[00:00:25]:   GameMode: endless
+[00:00:25]:   OverridenDNS: 
+[00:00:25]:   PauseWhenEmpty: true
+[00:00:25]:   IdleTimeout: 1800s
+[00:00:25]:   VoteEnabled: false
+[00:00:25]:   InternetBroadcasting: true
+[00:00:25]:   Intent: cooperative
+[00:00:25]: [Warning] Could not confirm port 10998 is open in the firewall. 
+[00:00:25]: [Shard] No shard id specified, generating a random one...
+[00:00:25]: Online Server Started on port: 10998
+[00:00:25]: Found a level data override file with these contents:	
+[00:00:25]: 	K: 	background_node_range	 V: 	table: 09915B00	
+[00:00:25]: 		K: 	1	 V: 	0	
+[00:00:25]: 		K: 	2	 V: 	1	
+[00:00:25]: 	K: 	desc	 V: 	探查洞穴…… 一起！	
+[00:00:25]: 	K: 	hideminimap	 V: 	false	
+[00:00:25]: 	K: 	id	 V: 	DST_CAVE	
+[00:00:25]: 	K: 	location	 V: 	cave	
+[00:00:25]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:25]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:25]: 	K: 	name	 V: 	洞穴	
+[00:00:25]: 	K: 	numrandom_set_pieces	 V: 	0	
+[00:00:25]: 	K: 	override_level_string	 V: 	false	
+[00:00:25]: 	K: 	overrides	 V: 	table: 09915970	
+[00:00:25]: 		K: 	banana	 V: 	default	
+[00:00:25]: 		K: 	bats	 V: 	default	
+[00:00:25]: 		K: 	berrybush	 V: 	default	
+[00:00:25]: 		K: 	boons	 V: 	default	
+[00:00:25]: 		K: 	branching	 V: 	default	
+[00:00:25]: 		K: 	bunnymen	 V: 	default	
+[00:00:25]: 		K: 	cave_ponds	 V: 	default	
+[00:00:25]: 		K: 	cave_spiders	 V: 	default	
+[00:00:25]: 		K: 	cavelight	 V: 	default	
+[00:00:25]: 		K: 	chess	 V: 	default	
+[00:00:25]: 		K: 	disease_delay	 V: 	default	
+[00:00:25]: 		K: 	earthquakes	 V: 	default	
+[00:00:25]: 		K: 	fern	 V: 	default	
+[00:00:25]: 		K: 	fissure	 V: 	default	
+[00:00:25]: 		K: 	flint	 V: 	default	
+[00:00:25]: 		K: 	flower_cave	 V: 	default	
+[00:00:25]: 		K: 	grass	 V: 	default	
+[00:00:25]: 		K: 	layout_mode	 V: 	RestrictNodesByKey	
+[00:00:25]: 		K: 	lichen	 V: 	default	
+[00:00:25]: 		K: 	liefs	 V: 	default	
+[00:00:25]: 		K: 	loop	 V: 	default	
+[00:00:25]: 		K: 	marshbush	 V: 	default	
+[00:00:25]: 		K: 	monkey	 V: 	default	
+[00:00:25]: 		K: 	mushroom	 V: 	default	
+[00:00:25]: 		K: 	mushtree	 V: 	default	
+[00:00:25]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:25]: 		K: 	reeds	 V: 	default	
+[00:00:25]: 		K: 	regrowth	 V: 	default	
+[00:00:25]: 		K: 	roads	 V: 	never	
+[00:00:25]: 		K: 	rock	 V: 	default	
+[00:00:25]: 		K: 	rocky	 V: 	default	
+[00:00:25]: 		K: 	sapling	 V: 	default	
+[00:00:25]: 		K: 	season_start	 V: 	default	
+[00:00:25]: 		K: 	slurper	 V: 	default	
+[00:00:25]: 		K: 	slurtles	 V: 	default	
+[00:00:25]: 		K: 	start_location	 V: 	caves	
+[00:00:25]: 		K: 	task_set	 V: 	cave_default	
+[00:00:25]: 		K: 	tentacles	 V: 	default	
+[00:00:25]: 		K: 	touchstone	 V: 	default	
+[00:00:25]: 		K: 	trees	 V: 	default	
+[00:00:25]: 		K: 	weather	 V: 	default	
+[00:00:25]: 		K: 	world_size	 V: 	default	
+[00:00:25]: 		K: 	wormattacks	 V: 	default	
+[00:00:25]: 		K: 	wormhole_prefab	 V: 	tentacle_pillar	
+[00:00:25]: 		K: 	wormlights	 V: 	default	
+[00:00:25]: 		K: 	worms	 V: 	default	
+[00:00:25]: 	K: 	required_prefabs	 V: 	table: 099159C0	
+[00:00:25]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:25]: 	K: 	substitutes	 V: 	table: 09915CB8	
+[00:00:25]: 	K: 	version	 V: 	4	
+[00:00:25]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:25]: Overwriting savedata with level data file.	
+[00:00:25]: Not applying world gen overrides.	
+[00:00:25]: Collecting garbage...
+[00:00:25]: lua_gc took 0.05 seconds
+[00:00:25]: ~ShardLuaProxy()
+[00:00:25]: ~cEventLeaderboardProxy()
+[00:00:25]: ~ItemServerLuaProxy()
+[00:00:25]: ~InventoryLuaProxy()
+[00:00:25]: ~NetworkLuaProxy()
+[00:00:25]: ~SimLuaProxy()
+[00:00:25]: lua_close took 0.06 seconds
+[00:00:25]: ReleaseAll
+[00:00:25]: ReleaseAll Finished
+[00:00:25]: cGame::StartPlaying
+[00:00:25]: LOADING LUA
+[00:00:25]: DoLuaFile scripts/main.lua
+[00:00:25]: DoLuaFile loading buffer scripts/main.lua
+[00:00:25]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:27]:   taskgrouplist:	default	联机版	
+[00:00:27]:   taskgrouplist:	classic	经典	
+[00:00:27]:   taskgrouplist:	cave_default	地下	
+[00:00:27]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:27]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:27]: running main.lua
+	
+[00:00:27]: loaded modindex	
+[00:00:27]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:27]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:27]: LOADING LUA SUCCESS
+[00:00:27]: PlayerDeaths could not load morgue	
+[00:00:27]: PlayerHistory could not load player_history	
+[00:00:27]: ServerPreferences could not load server_preferences	
+[00:00:27]: bloom_enabled	false	
+[00:00:27]: OnLoad slot	2	: World options was nil! Populating with default.	
+[00:00:27]: OnLoad slot	3	: World options was nil! Populating with default.	
+[00:00:27]: OnLoad slot	4	: World options was nil! Populating with default.	
+[00:00:27]: OnLoad slot	5	: World options was nil! Populating with default.	
+[00:00:27]: loaded saveindex	
+[00:00:27]: OnFilesLoaded()	
+[00:00:27]: OnUpdatePurchaseStateComplete	
+[00:00:27]: Load Slot: ... generating new world	
+[00:00:27]: [IPC] Signal 'DST_Slave_WorldGen' opened  #000005FC
+[00:00:27]: [IPC] Sending signal... #000005FC
+[00:00:27]: WorldSim::SimThread::SimThread()
+[00:00:27]: ABOUT TO INSTALL STACKTRACE
+[00:00:27]: DoLuaFile scripts/stacktrace.lua
+[00:00:27]: DoLuaFile loading buffer scripts/stacktrace.lua
+[00:00:27]: INSTALLED STACKTRACE
+[00:00:27]: WorldSim::SimThread::SimThread() complete
+[00:00:27]: THREAD - started 'WorldSim' (3832)
+[00:00:27]: WorldSim::SimThread::Main()
+[00:00:27]: DoLuaFile scripts/worldgen_main.lua
+[00:00:27]: DoLuaFile loading buffer scripts/worldgen_main.lua
+[00:00:27]: Check for write access: TRUE
+[00:00:27]: Check for read access: TRUE
+[00:00:27]: DLC enabled : 	false	
+[00:00:27]: ModIndex: Load sequence finished successfully.	
+[00:00:27]: Reset() returning
+[00:00:28]:   taskgrouplist:	default	Together	
+[00:00:28]:   taskgrouplist:	classic	Classic	
+[00:00:28]:   taskgrouplist:	cave_default	Underground	
+[00:00:28]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:28]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:28]: running worldgen_main.lua
+	
+[00:00:28]: SEED = 	1587822014	
+[00:00:28]: Generating world with these parameters:	
+[00:00:28]: level_type	SURVIVAL	
+[00:00:28]: level_data:	
+[00:00:28]: 	K: 	1	 V: 	table: 0C32D268	
+[00:00:28]: 		K: 	background_node_range	 V: 	table: 0C32D420	
+[00:00:28]: 			K: 	1	 V: 	0	
+[00:00:28]: 			K: 	2	 V: 	1	
+[00:00:28]: 		K: 	desc	 V: 	探查洞穴…… 一起！	
+[00:00:28]: 		K: 	hideminimap	 V: 	false	
+[00:00:28]: 		K: 	id	 V: 	DST_CAVE	
+[00:00:28]: 		K: 	location	 V: 	cave	
+[00:00:28]: 		K: 	max_playlist_position	 V: 	999	
+[00:00:28]: 		K: 	min_playlist_position	 V: 	0	
+[00:00:28]: 		K: 	name	 V: 	洞穴	
+[00:00:28]: 		K: 	numrandom_set_pieces	 V: 	0	
+[00:00:28]: 		K: 	override_level_string	 V: 	false	
+[00:00:28]: 		K: 	overrides	 V: 	table: 0C32D290	
+[00:00:28]: 			K: 	banana	 V: 	default	
+[00:00:28]: 			K: 	bats	 V: 	default	
+[00:00:28]: 			K: 	berrybush	 V: 	default	
+[00:00:28]: 			K: 	boons	 V: 	default	
+[00:00:28]: 			K: 	branching	 V: 	default	
+[00:00:28]: 			K: 	bunnymen	 V: 	default	
+[00:00:28]: 			K: 	cave_ponds	 V: 	default	
+[00:00:28]: 			K: 	cave_spiders	 V: 	default	
+[00:00:28]: 			K: 	cavelight	 V: 	default	
+[00:00:28]: 			K: 	chess	 V: 	default	
+[00:00:28]: 			K: 	disease_delay	 V: 	default	
+[00:00:28]: 			K: 	earthquakes	 V: 	default	
+[00:00:28]: 			K: 	fern	 V: 	default	
+[00:00:28]: 			K: 	fissure	 V: 	default	
+[00:00:28]: 			K: 	flint	 V: 	default	
+[00:00:28]: 			K: 	flower_cave	 V: 	default	
+[00:00:28]: 			K: 	grass	 V: 	default	
+[00:00:28]: 			K: 	layout_mode	 V: 	RestrictNodesByKey	
+[00:00:28]: 			K: 	lichen	 V: 	default	
+[00:00:28]: 			K: 	liefs	 V: 	default	
+[00:00:28]: 			K: 	loop	 V: 	default	
+[00:00:28]: 			K: 	marshbush	 V: 	default	
+[00:00:28]: 			K: 	monkey	 V: 	default	
+[00:00:28]: 			K: 	mushroom	 V: 	default	
+[00:00:28]: 			K: 	mushtree	 V: 	default	
+[00:00:28]: 			K: 	prefabswaps_start	 V: 	default	
+[00:00:28]: 			K: 	reeds	 V: 	default	
+[00:00:28]: 			K: 	regrowth	 V: 	default	
+[00:00:28]: 			K: 	roads	 V: 	never	
+[00:00:28]: 			K: 	rock	 V: 	default	
+[00:00:28]: 			K: 	rocky	 V: 	default	
+[00:00:28]: 			K: 	sapling	 V: 	default	
+[00:00:28]: 			K: 	season_start	 V: 	default	
+[00:00:28]: 			K: 	slurper	 V: 	default	
+[00:00:28]: 			K: 	slurtles	 V: 	default	
+[00:00:28]: 			K: 	start_location	 V: 	caves	
+[00:00:28]: 			K: 	task_set	 V: 	cave_default	
+[00:00:28]: 			K: 	tentacles	 V: 	default	
+[00:00:28]: 			K: 	touchstone	 V: 	default	
+[00:00:28]: 			K: 	trees	 V: 	default	
+[00:00:28]: 			K: 	weather	 V: 	default	
+[00:00:28]: 			K: 	world_size	 V: 	default	
+[00:00:28]: 			K: 	wormattacks	 V: 	default	
+[00:00:28]: 			K: 	wormhole_prefab	 V: 	tentacle_pillar	
+[00:00:28]: 			K: 	wormlights	 V: 	default	
+[00:00:28]: 			K: 	worms	 V: 	default	
+[00:00:28]: 		K: 	required_prefabs	 V: 	table: 0C32D240	
+[00:00:28]: 			K: 	1	 V: 	multiplayer_portal	
+[00:00:28]: 		K: 	substitutes	 V: 	table: 0C32E320	
+[00:00:28]: 		K: 	version	 V: 	4	
+[00:00:28]: 
+#######
+#
+# Generating SURVIVAL Mode Level
+#
+#######
+	
+[00:00:28]: Prefab Swap Selection: regular grass	
+[00:00:28]: Prefab Swap Selection: regular twigs	
+[00:00:28]: Prefab Swap Selection: regular berries	
+[00:00:28]: New size:	425	default	
+[00:00:28]: Creating story...	
+[00:00:28]: [Story Gen] Generate nodes. Starting at: 'MudWorld'	
+[00:00:28]: [Story Gen] RestrictNodesByKey	
+[00:00:28]: Finding valid start task...	
+[00:00:28]:    ...picked 	CaveExitTask8	
+[00:00:28]: Has start node	SinkholeCopses	
+[00:00:28]: Adding Background Nodes	
+[00:00:28]: [Story Gen] Adding Cove Nodes	
+[00:00:28]: Warning! Couldn't find a spot in MoreAltars for Level2RockBoon	
+[00:00:28]: [WorldSimActual::WorldGen_InitializeNodePoints]
+[00:00:28]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:00:28]: GenerateVoronoiMap [100]:
+[00:00:31]: ...Done.
+[00:00:31]: ... story created	
+[00:00:31]: Baking map...	425	
+[00:00:31]: [WorldSimActual::WorldGen_Commit] worldgen success.
+[00:00:31]: [WorldSimActual::ConvertToTileMap]
+[00:00:31]: [ConvertToTileMap]
+[00:00:31]: [WorldSimActual::ConvertToTileMap] complete
+[00:00:31]: [WorldSimActual::SeparateIslands]
+[00:00:31]: [SeparateIslands]
+[00:00:31]: [WorldSimActual::SeparateIslands] complete
+[00:00:31]: Map Baked!	
+[00:00:31]: [WorldSimActual::ForceConnectivity]
+[00:00:31]: [GenerateLandmasses]
+[00:00:31]: [GenerateLandmasses] islands: 28
+[00:00:31]: [MergeConnectedLandmasses] true
+[00:00:31]: [WorldSimActual::ForceConnectivity] complete
+[00:00:31]: Encoding...	
+[00:00:31]: Encoding... DONE	
+[00:00:31]: Checking Tags	
+[00:00:31]: Couldn't generate any points for maze. Aborting.
+[00:00:32]: Populating voronoi...	
+[00:00:32]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:32]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:32]: Warning! Could not find a spot for RabbitTown in node RabbitCity:1:RabbitTown	
+[00:00:32]: Warning! Could not find a spot for TwigsBoon in node AtriumMaze:2:AtriumMazeRooms	
+[00:00:32]: Warning! Could not find a spot for RabbitTown in node CaveExitTask10:1:GreenMushRabbits	
+[00:00:32]: Warning! Could not find a spot for StraightWall2 in node Residential:4:Vacant	
+[00:00:32]: Warning! Could not find a spot for StraightWall2 in node Residential:4:Vacant	
+[00:00:32]: Warning! Could not find a spot for StraightWall2 in node Residential:4:Vacant	
+[00:00:32]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:32]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:32]: Warning! Could not find a spot for CornerWall in node Residential:2:Vacant	
+[00:00:32]: Warning! Could not find a spot for StraightWall in node Residential:2:Vacant	
+[00:00:32]: Warning! Could not find a spot for StraightWall in node Residential:2:Vacant	
+[00:00:32]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:32]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:32]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:32]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:32]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:32]: Warning! Could not find a spot for RabbitCity in node RabbitCity:5:RabbitCity	
+[00:00:32]: Warning! Could not find a spot for RabbitTown in node RabbitTown:0:RabbitTown	
+[00:00:32]: Warning! Could not find a spot for StraightWall in node Residential:3:Vacant	
+[00:00:32]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:32]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:32]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:32]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:32]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:32]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:32]: [ReplaceSingleNonLandTiles] Replaced 52 tiles.
+[00:00:32]: PANIC: Too many disconnected tiles...	1634	
+[00:00:32]: An error occured during world gen we will retry! [was 	1	 of 	5	]	
+[00:00:32]: New size:	425	default	
+[00:00:32]: Creating story...	
+[00:00:32]: [Story Gen] Generate nodes. Starting at: 'MudWorld'	
+[00:00:32]: [Story Gen] RestrictNodesByKey	
+[00:00:32]: Finding valid start task...	
+[00:00:32]:    ...picked 	CaveExitTask4	
+[00:00:32]: Has start node	SinkholeForest	
+[00:00:32]: Adding Background Nodes	
+[00:00:32]: [Story Gen] Adding Cove Nodes	
+[00:00:32]: Warning! Couldn't find a spot in MoreAltars for Level2RockBoon	
+[00:00:32]: [WorldSimActual::WorldGen_InitializeNodePoints]
+[00:00:32]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:00:32]: GenerateVoronoiMap [100]:
+[00:00:35]: ...Done.
+[00:00:35]: ... story created	
+[00:00:35]: Baking map...	425	
+[00:00:35]: [WorldSimActual::WorldGen_Commit] worldgen success.
+[00:00:35]: [WorldSimActual::ConvertToTileMap]
+[00:00:35]: [ConvertToTileMap]
+[00:00:35]: [WorldSimActual::ConvertToTileMap] complete
+[00:00:35]: [WorldSimActual::SeparateIslands]
+[00:00:35]: [SeparateIslands]
+[00:00:35]: [WorldSimActual::SeparateIslands] complete
+[00:00:35]: Map Baked!	
+[00:00:35]: [WorldSimActual::ForceConnectivity]
+[00:00:35]: [GenerateLandmasses]
+[00:00:35]: [GenerateLandmasses] islands: 12
+[00:00:35]: [MergeConnectedLandmasses] true
+[00:00:35]: [WorldSimActual::ForceConnectivity] complete
+[00:00:35]: Encoding...	
+[00:00:35]: Encoding... DONE	
+[00:00:35]: Checking Tags	
+[00:00:35]: Populating voronoi...	
+[00:00:35]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:35]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:35]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask9:1:GreenMushSinkhole	
+[00:00:35]: Warning! Could not find a spot for PondSinkhole in node CaveExitTask7:0:SinkholeOasis	
+[00:00:35]: Warning! Could not find a spot for Level2WoodBoon in node AtriumMaze:4:AtriumMazeRooms	
+[00:00:35]: Warning! Could not find a spot for GrassySinkhole in node CaveExitTask8:0:GrasslandSinkhole	
+[00:00:35]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:35]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:35]: Warning! Could not find a spot for StraightWall in node Residential:2:Vacant	
+[00:00:35]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:35]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:35]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:35]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:35]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:35]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:35]: Warning! Could not find a spot for RabbitTown in node RabbitTown:0:RabbitTown	
+[00:00:35]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:35]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:35]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:35]: [ReplaceSingleNonLandTiles] Replaced 35 tiles.
+[00:00:35]: PANIC: Too many disconnected tiles...	2195	
+[00:00:35]: An error occured during world gen we will retry! [was 	2	 of 	5	]	
+[00:00:35]: New size:	425	default	
+[00:00:35]: Creating story...	
+[00:00:35]: [Story Gen] Generate nodes. Starting at: 'MudWorld'	
+[00:00:35]: [Story Gen] RestrictNodesByKey	
+[00:00:35]: Finding valid start task...	
+[00:00:35]:    ...picked 	CaveExitTask10	
+[00:00:35]: Has start node	GreenMushSinkhole	
+[00:00:35]: Adding Background Nodes	
+[00:00:35]: [Story Gen] Adding Cove Nodes	
+[00:00:35]: Warning! Couldn't find a spot in MoreAltars for Level2RockBoon	
+[00:00:35]: [WorldSimActual::WorldGen_InitializeNodePoints]
+[00:00:35]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:00:35]: GenerateVoronoiMap [100]:
+[00:00:39]: ...Done.
+[00:00:39]: ... story created	
+[00:00:39]: Baking map...	425	
+[00:00:39]: [WorldSimActual::WorldGen_Commit] worldgen success.
+[00:00:39]: [WorldSimActual::ConvertToTileMap]
+[00:00:39]: [ConvertToTileMap]
+[00:00:39]: [WorldSimActual::ConvertToTileMap] complete
+[00:00:39]: [WorldSimActual::SeparateIslands]
+[00:00:39]: [SeparateIslands]
+[00:00:39]: [WorldSimActual::SeparateIslands] complete
+[00:00:39]: Map Baked!	
+[00:00:39]: [WorldSimActual::ForceConnectivity]
+[00:00:39]: [GenerateLandmasses]
+[00:00:39]: [GenerateLandmasses] islands: 7
+[00:00:39]: [MergeConnectedLandmasses] true
+[00:00:39]: [WorldSimActual::ForceConnectivity] complete
+[00:00:39]: Encoding...	
+[00:00:39]: Encoding... DONE	
+[00:00:39]: Checking Tags	
+[00:00:39]: Populating voronoi...	
+[00:00:39]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:39]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:39]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask9:1:GreenMushSinkhole	
+[00:00:39]: Warning! Could not find a spot for TwigsBoon in node AtriumMaze:2:AtriumMazeRooms	
+[00:00:39]: Warning! Could not find a spot for RabbitHermit in node MudCave:0:MudWithRabbit	
+[00:00:39]: Warning! Could not find a spot for StraightWall in node Residential:4:Vacant	
+[00:00:39]: Warning! Could not find a spot for StraightWall in node Residential:4:Vacant	
+[00:00:39]: Warning! Could not find a spot for StraightWall in node Residential:4:Vacant	
+[00:00:39]: Warning! Could not find a spot for StraightWall2 in node Residential:4:Vacant	
+[00:00:39]: Warning! Could not find a spot for StraightWall2 in node Residential:4:Vacant	
+[00:00:39]: Warning! Could not find a spot for StraightWall2 in node Residential:4:Vacant	
+[00:00:39]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:39]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:39]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:39]: Warning! Could not find a spot for RabbitTown in node GreenForest:1:GreenMushRabbits	
+[00:00:39]: Warning! Could not find a spot for StraightWall in node Residential:2:Vacant	
+[00:00:39]: Warning! Could not find a spot for StraightWall in node Residential:2:Vacant	
+[00:00:39]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:39]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:39]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:39]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:39]: Warning! Could not find a spot for RabbitCity in node RabbitCity:5:RabbitCity	
+[00:00:39]: Warning! Could not find a spot for CornerWall in node Residential:3:Vacant	
+[00:00:39]: Warning! Could not find a spot for StraightWall in node Residential:3:Vacant	
+[00:00:39]: Warning! Could not find a spot for StraightWall in node Residential:3:Vacant	
+[00:00:39]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:39]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:39]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:39]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:39]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:39]: [ReplaceSingleNonLandTiles] Replaced 44 tiles.
+[00:00:39]: disconnected tiles...	863	
+[00:00:39]: MilitaryPits:0:Barracks Cant process points	
+[00:00:39]: MilitaryPits:2:Barracks Cant process points	
+[00:00:39]: MilitaryPits:1:Barracks Cant process points	
+[00:00:39]: Removing entity on IMPASSABLE	nightmarelight	42.765	174.2325	-688.94, 0, -163.07	
+[00:00:39]: Removing entity on IMPASSABLE	nightmarelight	40.25	176.7175	-699, 0, -153.13	
+[00:00:39]: Removing entity on IMPASSABLE	nightmarelight	42.6875	176.7175	-689.25, 0, -153.13	
+[00:00:39]: Removing entity on IMPASSABLE	nightmarelight	40.295	174.295	-698.82, 0, -162.82	
+[00:00:39]: Removing entity on IMPASSABLE	pandoraschest	86.5	87.5	-514, 0, -510	
+[00:00:39]: Removing entity on IMPASSABLE	pandoraschest	78.5	87.5	-546, 0, -510	
+[00:00:39]: Removing entity on IMPASSABLE	pillar_ruins	43.5	173.53	-686, 0, -165.88	
+[00:00:39]: Removing entity on IMPASSABLE	pillar_ruins	39.4825	173.515	-702.07, 0, -165.94	
+[00:00:39]: Removing entity on IMPASSABLE	pillar_ruins	39.4825	177.515	-702.07, 0, -149.94	
+[00:00:39]: Removing entity on IMPASSABLE	pillar_ruins	43.5	177.515	-686, 0, -149.94	
+[00:00:39]: Removing entity on IMPASSABLE	pillar_ruins	46.515	180.515	-673.94, 0, -137.94	
+[00:00:39]: Removing entity on IMPASSABLE	pillar_ruins	46.5	170.4825	-674, 0, -178.07	
+[00:00:39]: Removing entity on IMPASSABLE	pillar_ruins	36.5	170.515	-714, 0, -177.94	
+[00:00:39]: Removing entity on IMPASSABLE	pillar_ruins	36.515	180.515	-713.94, 0, -137.94	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	180.265	118.5	-138.94, 0, -386	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	79.4825	167.2175	-542.07, 0, -191.13	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	79.4825	166.9675	-542.07, 0, -192.13	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	74.4825	161.545	-562.07, 0, -213.82	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	74.2325	161.545	-563.07, 0, -213.82	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	73.9825	161.545	-564.07, 0, -213.82	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	73.5	167.015	-566, 0, -191.94	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	73.5	167.265	-566, 0, -190.94	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	78.4675	161.53	-546.13, 0, -213.88	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	78.2175	161.53	-547.13, 0, -213.88	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	77.9675	161.53	-548.13, 0, -213.88	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	66.515	176.2175	-593.94, 0, -155.13	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	66.515	175.9675	-593.94, 0, -156.13	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	71.515	170.545	-573.94, 0, -177.82	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	71.765	170.545	-572.94, 0, -177.82	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	72.015	170.545	-571.94, 0, -177.82	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	72.5	176.015	-570, 0, -155.94	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	72.5	176.265	-570, 0, -154.94	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	67.53	170.53	-589.88, 0, -177.88	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	67.78	170.53	-588.88, 0, -177.88	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	68.03	170.53	-587.88, 0, -177.88	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	40.75	180.5	-697, 0, -138	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	41	180.5	-696, 0, -138	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	40.5	180.5	-698, 0, -138	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	36.5	176.25	-714, 0, -155	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	36.5	176	-714, 0, -156	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	36.5	177.25	-714, 0, -151	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	36.5	173.5	-714, 0, -166	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	44.25	180.5	-683, 0, -138	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	44	180.5	-684, 0, -138	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	43.75	180.5	-685, 0, -138	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	46.5	178	-674, 0, -148	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	46.5	178.25	-674, 0, -147	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	46.5	179.25	-674, 0, -143	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	66.2175	163.515	-595.13, 0, -205.94	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	65.9675	163.515	-596.13, 0, -205.94	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	60.545	168.515	-617.82, 0, -185.94	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	60.545	168.765	-617.82, 0, -184.94	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	60.545	169.015	-617.82, 0, -183.94	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	60.53	164.53	-617.88, 0, -201.88	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	60.53	164.78	-617.88, 0, -200.88	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	60.53	165.03	-617.88, 0, -199.88	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	190.5	115.265	-98, 0, -398.94	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	183.53	116.53	-125.88, 0, -393.88	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	183.53	116.78	-125.88, 0, -392.88	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	183.53	117.03	-125.88, 0, -391.88	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	183.53	108.4675	-125.88, 0, -426.13	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	183.53	108.2175	-125.88, 0, -427.13	
+[00:00:39]: Removing entity on IMPASSABLE	wall_ruins	183.53	107.9675	-125.88, 0, -428.13	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	79.4825	162.9375	-542.07, 0, -208.25	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	79.4825	162.4375	-542.07, 0, -210.25	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	79.4825	162.6875	-542.07, 0, -209.25	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	79.4825	163.1875	-542.07, 0, -207.25	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	79.4825	166.4675	-542.07, 0, -194.13	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	79.4825	166.7175	-542.07, 0, -193.13	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	73.5	166.015	-566, 0, -195.94	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	73.5	166.265	-566, 0, -194.94	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	73.5	166.515	-566, 0, -193.94	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	73.5	166.765	-566, 0, -192.94	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	66.515	171.9375	-593.94, 0, -172.25	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	66.515	171.4375	-593.94, 0, -174.25	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	66.515	171.6875	-593.94, 0, -173.25	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	66.515	172.1875	-593.94, 0, -171.25	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	66.515	175.4675	-593.94, 0, -158.13	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	66.515	175.7175	-593.94, 0, -157.13	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	72.5	175.015	-570, 0, -159.94	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	72.5	175.265	-570, 0, -158.94	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	72.5	175.515	-570, 0, -157.94	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	72.5	175.765	-570, 0, -156.94	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	40.25	180.5	-699, 0, -138	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	36.5	175.75	-714, 0, -157	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	43.5	180.5	-686, 0, -138	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	46.5	177.75	-674, 0, -149	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	61.9375	163.515	-612.25, 0, -205.94	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	61.4375	163.515	-614.25, 0, -205.94	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	61.6875	163.515	-613.25, 0, -205.94	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	62.1875	163.515	-611.25, 0, -205.94	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	65.4675	163.515	-598.13, 0, -205.94	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	65.7175	163.515	-597.13, 0, -205.94	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	184.6875	115.515	-121.25, 0, -397.94	
+[00:00:40]: Removing entity on IMPASSABLE	brokenwall_ruins	184.6875	109.4825	-121.25, 0, -422.07	
+[00:00:40]: Removing entity on IMPASSABLE	bishop_nightmare_spawner	74.25	162.75	-563, 0, -209	
+[00:00:40]: Removing entity on IMPASSABLE	bishop_nightmare_spawner	71.75	171.75	-573, 0, -173	
+[00:00:40]: Removing entity on IMPASSABLE	bishop_nightmare_spawner	40.75	176.015	-697, 0, -155.94	
+[00:00:40]: Removing entity on IMPASSABLE	bishop_nightmare_spawner	42.3275	175.045	-690.69, 0, -159.82	
+[00:00:40]: Removing entity on IMPASSABLE	bishop_nightmare_spawner	61.75	168.75	-613, 0, -185	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	79	165.25	-544, 0, -199	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	76	164	-556, 0, -204	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	77.5	163.5	-550, 0, -206	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	78	167	-548, 0, -192	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	77.75	165	-549, 0, -200	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	74.5	165.5	-562, 0, -198	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	67	174.25	-592, 0, -163	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	70	173	-580, 0, -168	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	68.5	172.5	-586, 0, -170	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	68	176	-588, 0, -156	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	68.25	174	-587, 0, -164	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	71.5	174.5	-574, 0, -162	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	44.64	172.4825	-681.44, 0, -170.07	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	38.765	178.515	-704.94, 0, -145.94	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	64.25	164	-603, 0, -204	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	63	167	-608, 0, -192	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	62.5	165.5	-610, 0, -198	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	66	165	-596, 0, -200	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	64	165.25	-604, 0, -199	
+[00:00:40]: Removing entity on IMPASSABLE	chessjunk_spawner	64.5	168.5	-602, 0, -186	
+[00:00:40]: Removing entity on IMPASSABLE	ancient_altar_spawner	41.5	175.4825	-694, 0, -158.07	
+[00:00:40]: Removing entity on IMPASSABLE	rook_nightmare_spawner	77.25	162	-551, 0, -212	
+[00:00:40]: Removing entity on IMPASSABLE	rook_nightmare_spawner	76.25	166.25	-555, 0, -195	
+[00:00:40]: Removing entity on IMPASSABLE	rook_nightmare_spawner	68.75	171	-585, 0, -176	
+[00:00:40]: Removing entity on IMPASSABLE	rook_nightmare_spawner	69.75	175.25	-581, 0, -159	
+[00:00:40]: Removing entity on IMPASSABLE	rook_nightmare_spawner	61	165.75	-616, 0, -197	
+[00:00:40]: Removing entity on IMPASSABLE	rook_nightmare_spawner	65.25	166.75	-599, 0, -193	
+[00:00:40]: Removing entity on IMPASSABLE	sacred_chest	41.5	177.25	-694, 0, -151	
+[00:00:40]: Checking Required Prefab atrium_gate has at least 1 instances (1 found).	
+[00:00:40]: Checking Required Prefab minotaur_spawner has at least 1 instances (1 found).	
+[00:00:40]: Checking Required Prefab multiplayer_portal has at least 1 instances (1 found).	
+[00:00:40]: Checking Required Prefab sacred_chest has at least 1 instances (0 found).	
+[00:00:40]: PANIC: missing required prefab [sacred_chest]! Expected 1, got 0	
+[00:00:40]: An error occured during world gen we will retry! [was 	3	 of 	5	]	
+[00:00:40]: New size:	425	default	
+[00:00:40]: Creating story...	
+[00:00:40]: [Story Gen] Generate nodes. Starting at: 'MudWorld'	
+[00:00:40]: [Story Gen] RestrictNodesByKey	
+[00:00:40]: Finding valid start task...	
+[00:00:40]:    ...picked 	CaveExitTask9	
+[00:00:40]: Has start node	GreenMushRabbits	
+[00:00:40]: Adding Background Nodes	
+[00:00:40]: [Story Gen] Adding Cove Nodes	
+[00:00:40]: Warning! Couldn't find a spot in MoreAltars for Level2RockBoon	
+[00:00:40]: [WorldSimActual::WorldGen_InitializeNodePoints]
+[00:00:40]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:00:40]: GenerateVoronoiMap [100]:
+[00:00:43]: ...Done.
+[00:00:43]: ... story created	
+[00:00:43]: Baking map...	425	
+[00:00:43]: [WorldSimActual::WorldGen_Commit] worldgen success.
+[00:00:43]: [WorldSimActual::ConvertToTileMap]
+[00:00:43]: [ConvertToTileMap]
+[00:00:43]: [WorldSimActual::ConvertToTileMap] complete
+[00:00:43]: [WorldSimActual::SeparateIslands]
+[00:00:43]: [SeparateIslands]
+[00:00:43]: [WorldSimActual::SeparateIslands] complete
+[00:00:43]: Map Baked!	
+[00:00:43]: [WorldSimActual::ForceConnectivity]
+[00:00:43]: [GenerateLandmasses]
+[00:00:43]: [GenerateLandmasses] islands: 10
+[00:00:43]: [MergeConnectedLandmasses] true
+[00:00:43]: [WorldSimActual::ForceConnectivity] complete
+[00:00:43]: Encoding...	
+[00:00:43]: Encoding... DONE	
+[00:00:43]: Checking Tags	
+[00:00:43]: Couldn't generate any points for maze. Aborting.
+[00:00:43]: Populating voronoi...	
+[00:00:43]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:43]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:43]: Warning! Could not find a spot for RabbitTown in node CaveExitTask2:0:RabbitTown	
+[00:00:43]: Warning! Could not find a spot for GrassySinkhole in node CaveExitTask8:0:GrasslandSinkhole	
+[00:00:43]: Warning! Could not find a spot for StraightWall2 in node Residential:4:Vacant	
+[00:00:43]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:43]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:43]: Warning! Could not find a spot for StraightWall in node Residential:2:Vacant	
+[00:00:43]: Warning! Could not find a spot for StraightWall in node Residential:2:Vacant	
+[00:00:43]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:43]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:43]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:43]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:43]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:43]: Warning! Could not find a spot for RabbitCity in node RabbitCity:5:RabbitCity	
+[00:00:43]: Warning! Could not find a spot for RabbitTown in node RabbitTown:0:RabbitTown	
+[00:00:43]: Warning! Could not find a spot for StraightWall in node Residential:3:Vacant	
+[00:00:43]: Warning! Could not find a spot for StraightWall in node Residential:3:Vacant	
+[00:00:43]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:43]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:43]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:43]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:43]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:43]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:43]: Warning! Could not find a spot for TwigsBoon in node AtriumMaze:5:AtriumMazeRooms	
+[00:00:43]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:43]: [ReplaceSingleNonLandTiles] Replaced 44 tiles.
+[00:00:43]: PANIC: Too many disconnected tiles...	1675	
+[00:00:43]: An error occured during world gen we will retry! [was 	4	 of 	5	]	
+[00:00:43]: New size:	425	default	
+[00:00:43]: Creating story...	
+[00:00:43]: [Story Gen] Generate nodes. Starting at: 'MudWorld'	
+[00:00:43]: [Story Gen] RestrictNodesByKey	
+[00:00:43]: Finding valid start task...	
+[00:00:43]:    ...picked 	CaveExitTask8	
+[00:00:43]: Has start node	RabbitArea	
+[00:00:43]: Adding Background Nodes	
+[00:00:43]: [Story Gen] Adding Cove Nodes	
+[00:00:43]: Warning! Couldn't find a spot in MoreAltars for Level2RockBoon	
+[00:00:43]: [WorldSimActual::WorldGen_InitializeNodePoints]
+[00:00:43]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:00:43]: GenerateVoronoiMap [100]:
+[00:00:46]: ...Done.
+[00:00:46]: ... story created	
+[00:00:46]: Baking map...	425	
+[00:00:46]: [WorldSimActual::WorldGen_Commit] worldgen success.
+[00:00:46]: [WorldSimActual::ConvertToTileMap]
+[00:00:46]: [ConvertToTileMap]
+[00:00:46]: [WorldSimActual::ConvertToTileMap] complete
+[00:00:46]: [WorldSimActual::SeparateIslands]
+[00:00:46]: [SeparateIslands]
+[00:00:46]: [WorldSimActual::SeparateIslands] complete
+[00:00:46]: Map Baked!	
+[00:00:46]: [WorldSimActual::ForceConnectivity]
+[00:00:46]: [GenerateLandmasses]
+[00:00:46]: [GenerateLandmasses] islands: 10
+[00:00:46]: [MergeConnectedLandmasses] true
+[00:00:46]: [WorldSimActual::ForceConnectivity] complete
+[00:00:46]: Encoding...	
+[00:00:46]: Encoding... DONE	
+[00:00:46]: Checking Tags	
+[00:00:46]: Couldn't generate any points for maze. Aborting.
+[00:00:46]: Populating voronoi...	
+[00:00:46]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:47]: Warning! Could not find a spot for RabbitTown in node CaveExitTask10:1:GreenMushRabbits	
+[00:00:47]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:47]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:47]: Warning! Could not find a spot for StraightWall in node Residential:2:Vacant	
+[00:00:47]: Warning! Could not find a spot for StraightWall in node Residential:2:Vacant	
+[00:00:47]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:47]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[00:00:47]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:47]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:47]: Warning! Could not find a spot for RabbitCity in node RabbitCity:5:RabbitCity	
+[00:00:47]: Warning! Could not find a spot for RabbitTown in node RabbitCity:0:RabbitTown	
+[00:00:47]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:47]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[00:00:47]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:47]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[00:00:47]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:47]: [ReplaceSingleNonLandTiles] Replaced 43 tiles.
+[00:00:47]: disconnected tiles...	341	
+[00:00:47]: Removing entity on IMPASSABLE	cavelight	266.95	147.975	191.8, 0, -284.1	
+[00:00:47]: Removing entity on IMPASSABLE	ruins_statue_mage_spawner	98.5	126.5	-482, 0, -370	
+[00:00:47]: Removing entity on IMPASSABLE	ruins_statue_head_spawner	101.5	115.5	-470, 0, -414	
+[00:00:47]: Removing entity on IMPASSABLE	knight_nightmare_spawner	107	125	-448, 0, -376	
+[00:00:47]: Removing entity on IMPASSABLE	knight_nightmare_spawner	100.75	117.25	-473, 0, -407	
+[00:00:47]: Removing entity on IMPASSABLE	ancient_altar_broken_spawner	99.5	118.25	-478, 0, -403	
+[00:00:47]: Removing entity on IMPASSABLE	chessjunk_spawner	123	126	-384, 0, -372	
+[00:00:47]: Removing entity on IMPASSABLE	chessjunk_spawner	152	101	-268, 0, -472	
+[00:00:47]: Removing entity on IMPASSABLE	chessjunk_spawner	101.625	127.14	-469.5, 0, -367.44	
+[00:00:47]: Removing entity on IMPASSABLE	chessjunk_spawner	97	116.5	-488, 0, -410	
+[00:00:47]: Removing entity on IMPASSABLE	bishop_nightmare_spawner	100.75	124.75	-473, 0, -377	
+[00:00:47]: Removing entity on IMPASSABLE	bishop_nightmare_spawner	98	117.25	-484, 0, -407	
+[00:00:47]: Removing entity on IMPASSABLE	rook_nightmare_spawner	123.75	124.25	-381, 0, -379	
+[00:00:47]: Removing entity on IMPASSABLE	rook_nightmare_spawner	107.7325	133.7175	-445.07, 0, -341.13	
+[00:00:47]: Checking Required Prefab atrium_gate has at least 1 instances (1 found).	
+[00:00:47]: Checking Required Prefab minotaur_spawner has at least 1 instances (1 found).	
+[00:00:47]: Checking Required Prefab multiplayer_portal has at least 1 instances (1 found).	
+[00:00:47]: Checking Required Prefab sacred_chest has at least 1 instances (1 found).	
+[00:00:47]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:47]: [ReplaceSingleNonLandTiles] Replaced 0 tiles.
+[00:00:47]: Done cave map gen!	
+[00:00:47]: Checking map...	
+[00:00:47]: Generation complete	
+[00:00:47]: WorldSim::SimThread::Main() complete
+[00:00:47]: Serializing world: session/75EC46A69D96C382/0000000002
+[00:00:47]: Klump load on boot started.	
+[00:00:47]: Klump files loaded: 	0	
+[00:00:47]: 	Unload FE	
+[00:00:47]: 	Unload FE done	
+[00:00:48]: 	LOAD BE	
+[00:00:52]: 	LOAD BE: done	
+[00:00:52]: Begin Session: 75EC46A69D96C382
+[00:00:52]: saving to server_temp/server_save	
+[00:00:53]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:53]: Loading 16 new character(s)	
+[00:00:53]: Total 16 character(s) loaded	
+[00:00:59]: Loading Nav Grid	
+[00:00:59]: World generated on version 406832, using seed: 1587822014	
+[00:00:59]: [Shard] Slave is waiting for LUA...
+[00:01:01]: Reconstructing topology	
+[00:01:01]: 	...Sorting points	
+[00:01:01]: 	...Sorting edges	
+[00:01:01]: 	...Connecting nodes	
+[00:01:01]: 	...Validating connections	
+[00:01:01]: 	...Housekeeping	
+[00:01:01]: 	...Done!	
+[00:01:01]: 1 uploads added to server. From server_temp
+[00:01:01]: About to start a shard with these settings:
+[00:01:01]:   ShardName: Caves
+[00:01:01]:   ShardID: 2276265628
+[00:01:01]:   ShardRole: SLAVE
+[00:01:01]:   MasterHost: 127.0.0.1
+[00:01:01]:   MasterBind: (null)
+[00:01:01]:   MasterPort: 10888
+[00:01:01]: [Shard] Connecting to master...
+[00:01:01]: Telling Client our new session identifier: 75EC46A69D96C382
+[00:01:01]: [Steam] SteamGameServer_Init(8767, 10998, 27017)
+[00:01:02]: [Steam] SteamGameServer_Init success
+[00:01:02]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:01:02]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:01:02]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:01:02]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:01:02]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:01:02]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:01:02]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:01:02]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:01:02]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:01:02]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:01:02]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:01:06]: Gameserver logged on to Steam, assigned identity steamid:90134731545435139
+[00:01:07]: [IPC] Received shutdown signal.
+[00:01:07]: Serializing world: session/75EC46A69D96C382/0000000003
+[00:01:07]: [Shard] Stopping shard mode
+[00:01:07]: Collecting garbage...
+[00:01:07]: lua_gc took 0.10 seconds
+[00:01:07]: ~ShardLuaProxy()
+[00:01:07]: ~cEventLeaderboardProxy()
+[00:01:07]: ~ItemServerLuaProxy()
+[00:01:07]: ~InventoryLuaProxy()
+[00:01:07]: ~NetworkLuaProxy()
+[00:01:07]: ~SimLuaProxy()
+[00:01:08]: lua_close took 0.18 seconds
+[00:01:08]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:09]: CurlRequestManager::ClientThread::Main() complete
+[00:01:09]: HttpClient2 discarded 0 callbacks.
+[00:01:09]: Shutting down
