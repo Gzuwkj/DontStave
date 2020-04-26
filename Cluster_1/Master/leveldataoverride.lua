@@ -30,7 +30,7 @@ return {
     day="default",
     deciduousmonster="default",
     deerclops="default",
-    disease_delay="default",
+    disease_delay="none",
     dragonfly="default",
     flint="default",
     flowers="default",
@@ -86,7 +86,7 @@ return {
     weather="default",
     wildfires="default",
     winter="default",
-    world_size="default",
+    world_size="medium",
     wormhole_prefab="wormhole" 
   },
   random_set_pieces={
