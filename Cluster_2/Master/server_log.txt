@@ -1,0 +1,1709 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 43%
+	Available Physical Memory: 6810m/12150m
+	Available Page File: 6712m/14006m
+	Available Virtual Memory: 3985m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 30m
+	Working Set Size: 30m
+	Quota Peak Page Pool Usage: 221k
+	Quota Page Pool Usage: 215k
+	Quota Peak Non Paged Pool Usage:17k
+	Quota Non Paged Pool Usage: 16k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/845328992/Cluster_2/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 408761
+[00:00:00]: Current time: Wed May 20 15:32:41 2020
+
+[00:00:00]: Don't Starve Together: 408761 WIN32
+[00:00:00]: Build Date: 5259
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -monitor_parent_process 5804 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_2 -ownernetid 76561198805594720 -ownerdir 845328992 -backup_log_count 10 -backup_log_period 0 -shard Master -sigprefix DST_Master -region Sing 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (5392)
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: ProfileIndex:6.14
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: THREAD - started 'Ping Job Thread' (12068)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application E:\apps\steam\steamapps\common\Don't Starve Together\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: Overriding region to Sing
+[00:00:00]: THREAD - started 'StreamInput' (15176)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/845328992/client_save/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/845328992/client_save/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/845328992/client_save/whitelist.txt (Failure)
+[00:00:00]: Offline user ID: OU_76561198805594720
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/845328992/Cluster_2/cluster_token.txt
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/845328992/Cluster_2/cluster_token.txt
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 家庭中文版
+    version                   10.0.18363
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2501
+  RAM                       
+    megsOfRam                 12288
+  GPU                       
+    name                      Intel(R) HD Graphics 630
+    driverDate                20190925000000.000000-000
+    megsOfRam                 1024
+    refreshRate               60
+    videoModeDescription      1920 x 1080 x 4294967296 种颜色
+    driverVersion             26.20.100.7262
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:02]:   taskgrouplist:	default	联机版	
+[00:00:02]:   taskgrouplist:	classic	经典	
+[00:00:02]:   taskgrouplist:	cave_default	地下	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:02]: running main.lua
+	
+[00:00:02]: Could not load modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:02]: DownloadMods(0)
+[00:00:02]: modoverrides.lua enabling workshop-666155465	
+[00:00:02]: modoverrides.lua enabling workshop-375850593	
+[00:00:02]: modoverrides.lua enabling workshop-537902048	
+[00:00:02]: modoverrides.lua enabling workshop-1392778117	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1392778117	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-537902048	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1392778117_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:02]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:02]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:02]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-537902048	
+[00:00:02]: Overriding mod workshop-537902048's option picking_rate with value normal	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1392778117	
+[00:00:02]: Overriding mod workshop-1392778117's option CropYields with value 0	
+[00:00:02]: Overriding mod workshop-1392778117's option PrayForRain with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option FlashAndCrush with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option SuperbCuisine with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option FestivalRecipes with value false	
+[00:00:02]: Overriding mod workshop-1392778117's option OverripeTime with value 1	
+[00:00:02]: Overriding mod workshop-1392778117's option CleaningUpStench with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option FlowersPower with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option BookRecipetabs with value bookbuilder	
+[00:00:02]: Overriding mod workshop-1392778117's option FlowerWeaponsChance with value 0.03	
+[00:00:02]: Overriding mod workshop-1392778117's option GrowthRate with value 1	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option TechUnlock with value prototyper	
+[00:00:02]: Overriding mod workshop-1392778117's option DesertSecret with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option PestRisk with value 0.007	
+[00:00:02]: Overriding mod workshop-1392778117's option NewCrops with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option Language with value auto	
+[00:00:02]: Loading mod: workshop-1392778117 ([DST] Legion-棱镜) Version:6.3.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-375850593_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:02]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:02]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:02]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-537902048	
+[00:00:02]: Overriding mod workshop-537902048's option picking_rate with value normal	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1392778117	
+[00:00:02]: Overriding mod workshop-1392778117's option CropYields with value 0	
+[00:00:02]: Overriding mod workshop-1392778117's option PrayForRain with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option FlashAndCrush with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option SuperbCuisine with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option FestivalRecipes with value false	
+[00:00:02]: Overriding mod workshop-1392778117's option OverripeTime with value 1	
+[00:00:02]: Overriding mod workshop-1392778117's option CleaningUpStench with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option FlowersPower with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option BookRecipetabs with value bookbuilder	
+[00:00:02]: Overriding mod workshop-1392778117's option FlowerWeaponsChance with value 0.03	
+[00:00:02]: Overriding mod workshop-1392778117's option GrowthRate with value 1	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option TechUnlock with value prototyper	
+[00:00:02]: Overriding mod workshop-1392778117's option DesertSecret with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option PestRisk with value 0.007	
+[00:00:02]: Overriding mod workshop-1392778117's option NewCrops with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option Language with value auto	
+[00:00:02]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-537902048_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:02]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:02]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:02]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-537902048	
+[00:00:02]: Overriding mod workshop-537902048's option picking_rate with value normal	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1392778117	
+[00:00:02]: Overriding mod workshop-1392778117's option CropYields with value 0	
+[00:00:02]: Overriding mod workshop-1392778117's option PrayForRain with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option FlashAndCrush with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option SuperbCuisine with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option FestivalRecipes with value false	
+[00:00:02]: Overriding mod workshop-1392778117's option OverripeTime with value 1	
+[00:00:02]: Overriding mod workshop-1392778117's option CleaningUpStench with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option FlowersPower with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option BookRecipetabs with value bookbuilder	
+[00:00:02]: Overriding mod workshop-1392778117's option FlowerWeaponsChance with value 0.03	
+[00:00:02]: Overriding mod workshop-1392778117's option GrowthRate with value 1	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option TechUnlock with value prototyper	
+[00:00:02]: Overriding mod workshop-1392778117's option DesertSecret with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option PestRisk with value 0.007	
+[00:00:02]: Overriding mod workshop-1392778117's option NewCrops with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option Language with value auto	
+[00:00:02]: Loading mod: workshop-537902048 (Scythestest) Version:2.3	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:02]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:02]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:02]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-537902048	
+[00:00:02]: Overriding mod workshop-537902048's option picking_rate with value normal	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1392778117	
+[00:00:02]: Overriding mod workshop-1392778117's option CropYields with value 0	
+[00:00:02]: Overriding mod workshop-1392778117's option PrayForRain with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option FlashAndCrush with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option SuperbCuisine with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option FestivalRecipes with value false	
+[00:00:02]: Overriding mod workshop-1392778117's option OverripeTime with value 1	
+[00:00:02]: Overriding mod workshop-1392778117's option CleaningUpStench with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option FlowersPower with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option BookRecipetabs with value bookbuilder	
+[00:00:02]: Overriding mod workshop-1392778117's option FlowerWeaponsChance with value 0.03	
+[00:00:02]: Overriding mod workshop-1392778117's option GrowthRate with value 1	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:02]: Overriding mod workshop-1392778117's option TechUnlock with value prototyper	
+[00:00:02]: Overriding mod workshop-1392778117's option DesertSecret with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option PestRisk with value 0.007	
+[00:00:02]: Overriding mod workshop-1392778117's option NewCrops with value true	
+[00:00:02]: Overriding mod workshop-1392778117's option Language with value auto	
+[00:00:02]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.50	
+[00:00:02]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:00:02]: ShowMe version:	0.50	
+[00:00:02]: show_food_units	-1	-1	-1	
+[00:00:02]: show_uses	-1	-1	-1	
+[00:00:02]: Mod: workshop-537902048 (Scythestest)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-537902048 (Scythestest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-537902048 (Scythestest)	Loading modmain.lua	
+[00:00:02]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:02]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:02]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:00:02]: Action defined at 	../mods/workshop-537902048/modmain.lua:130 in () ? (main) <0-0>	
+[00:00:02]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-1392778117/scripts/languages/strings_chinese.lua	
+[00:00:02]: modimport: ../mods/workshop-1392778117/scripts/hotreload_legion.lua	
+[00:00:02]: modimport: ../mods/workshop-1392778117/scripts/apublicsupporter.lua	
+[00:00:02]: modimport: ../mods/workshop-1392778117/scripts/widgetcreation_legion.lua	
+[00:00:02]: modimport: ../mods/workshop-1392778117/scripts/flowerspower_legion.lua	
+[00:00:02]: modimport: ../mods/workshop-1392778117/scripts/desertsecret_legion.lua	
+[00:00:02]: modimport: ../mods/workshop-1392778117/scripts/prayforrain_legion.lua	
+[00:00:02]: modimport: ../mods/workshop-1392778117/scripts/new_farm_legion.lua	
+[00:00:02]: modimport: ../mods/workshop-1392778117/scripts/new_techtree_legion.lua	
+[00:00:02]: modimport: ../mods/workshop-1392778117/scripts/flashandcrush_legion.lua	
+[00:00:02]: upvaluehelper loaded	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: Registering mod namespace "showmeshint"
+[00:00:04]: Registering mod namespace "showme"
+[00:00:04]: PlayerDeaths could not load morgue	
+[00:00:04]: PlayerHistory could not load player_history	
+[00:00:04]: ServerPreferences could not load server_preferences	
+[00:00:04]: bloom_enabled	false	
+[00:00:04]: Could not load saveindex	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: Klump load on boot started.	
+[00:00:04]: Klump files loaded: 	0	
+[00:00:06]: Mod: workshop-375850593 (Extra Equip Slots)	Registering prefabs	
+[00:00:06]: Mod: workshop-375850593 (Extra Equip Slots)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:06]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-537902048 (Scythestest)	Registering prefabs	
+[00:00:06]: Mod: workshop-537902048 (Scythestest)	  Registering prefab file: prefabs/scythe	
+[00:00:06]: Mod: workshop-537902048 (Scythestest)	    scythe	
+[00:00:06]: Mod: workshop-537902048 (Scythestest)	  Registering prefab file: prefabs/scythe_golden	
+[00:00:06]: Mod: workshop-537902048 (Scythestest)	    scythe_golden	
+[00:00:06]: Mod: workshop-537902048 (Scythestest)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	Registering prefabs	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/hat_lichen	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    hat_lichen	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    lichenhatlight	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/backcub	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    backcub	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/veggies_legion	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    monstrain_leaf	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    catmint	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    pineananas_seeds	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    pineananas	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    pineananas_cooked	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    petals_orchid	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    petals_lily	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerry	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerry_placer	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerry_cooked	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    petals_rose	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/plantables_legion	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dug_lilybush	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dug_lilybush_placer	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dug_rosebush	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dug_rosebush_placer	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cutted_lilybush	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cutted_lilybush_placer	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dug_orchidbush	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dug_orchidbush_placer	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cutted_rosebush	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cutted_rosebush_placer	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cutted_orchidbush	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cutted_orchidbush_placer	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/turfs_legion	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/statue_unknowntrophy	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    statue_unknowntrophy	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    statue_unknowntrophy_placer	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/wants_sandwitch	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cattenball	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/bush_flowers	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    rosebush	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    lilybush	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    orchidbush	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    neverfadebush	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/rosorns	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    rosorns	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/lileaves	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    lileaves	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/orchitwigs	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    orchitwigs	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/impact_orchid	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    impact_orchid	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/neverfade	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    neverfade	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    neverfade_placer	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/sachet	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    sachet	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/neverfade_butterfly	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    neverfade_butterfly	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/neverfade_shield	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    neverfade_shield	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/buff_butterflysblessing	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_butterflysblessing	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/foods_cookpot	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_ricedumpling	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_duriantartare	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_twistedrolllily	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_murmurananas	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_merrychristmassalad	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_shyerryjam	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_orchidcake	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_chilledrosejuice	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_sugarlesstrickmakercupcakes	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fishjoyramen	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_beggingmeat	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fleshnapoleon	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_roastedmarshmallows	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_bananamousse	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_medicinalliquor	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_pomegranatejelly	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_frenchsnailsbaked	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_neworleanswings	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_sugarlesstrickmakercupcakes_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_medicinalliquor_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_roastedmarshmallows_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_murmurananas_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_shyerryjam_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_neworleanswings_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_beggingmeat_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_neworleanswings_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_murmurananas_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_twistedrolllily_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_beggingmeat_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_beggingmeat_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_beggingmeat_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_sugarlesstrickmakercupcakes_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_medicinalliquor_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fleshnapoleon_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_neworleanswings_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_ricedumpling_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_chilledrosejuice_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_bananamousse_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_merrychristmassalad_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fishjoyramen_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_twistedrolllily_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_frenchsnailsbaked_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_frenchsnailsbaked_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_pomegranatejelly_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_pomegranatejelly_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fishjoyramen_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_merrychristmassalad_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_pomegranatejelly_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fleshnapoleon_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_chilledrosejuice_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_orchidcake_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_orchidcake_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_neworleanswings_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_murmurananas_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_sugarlesstrickmakercupcakes_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_twistedrolllily_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_merrychristmassalad_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fleshnapoleon_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_frenchsnailsbaked_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fishjoyramen_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_frenchsnailsbaked_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_shyerryjam_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fleshnapoleon_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_pomegranatejelly_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_orchidcake_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_roastedmarshmallows_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_medicinalliquor_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_duriantartare_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fishjoyramen_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_chilledrosejuice_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_medicinalliquor_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_bananamousse_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_ricedumpling_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_bananamousse_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_murmurananas_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_duriantartare_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_shyerryjam_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_shyerryjam_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_ricedumpling_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_bananamousse_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_duriantartare_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_orchidcake_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_roastedmarshmallows_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_merrychristmassalad_spice_garlic	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_sugarlesstrickmakercupcakes_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_twistedrolllily_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_ricedumpling_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_duriantartare_spice_sugar	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_roastedmarshmallows_spice_salt	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_chilledrosejuice_spice_chili	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/debuff_panicvolcano	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    debuff_panicvolcano	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/buff_strengthenhancer	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_strengthenhancer	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/buff_bestappetite	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_bestappetite	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/buff_batdisguise	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_batdisguise	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/desertdefense	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    desertdefense	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/shyerries	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrymanager	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrytree1	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrytree2	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrytree3	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrytree4	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerryflower	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrylog	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrytree1_planted	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrytree3_planted	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/buff_healthstorage	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_healthstorage	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_healthstorage_super	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/sand_spike_legion	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    sandspike_short_legion	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    sandspike_med_legion	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    sandspike_tall_legion	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    sandspike_legion	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/raindonate	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    raindonate	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/monstrain	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    monstrain	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    squamousfruit	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/book_weather	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    book_weather	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/hat_mermbreathing	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    hat_mermbreathing	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/merm_scales	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    merm_scales	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/agronssword	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    agronssword	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/giantsfoot	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    giantsfoot	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/refractedmoonlight	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    refractedmoonlight	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/twoworldswords_fx	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    agronssword_fx	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    refractedmoonlight_fx	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/moon_dungeon	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    moondungeon	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/buff_hungerretarder	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_hungerretarder	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/plant_normal_legion	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    plant_normal_legion	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/farmingdungballs	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    farmingdungball	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    farmingdungball_item	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    farmingdungball_item_placer	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/wormwood_cropseeds_placer	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    wormwood_cropseeds_placer	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/cropgnat	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cropgnat	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cropgnat_infester	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/ahandfulofwings	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    ahandfulofwings	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/boltwingout	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    boltwingout	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    boltwingout_fx	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    boltwingout_shuck	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/fimbul_axe	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    fimbul_axe	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/fimbul_fx	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    fimbul_lightning	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    fimbul_cracklebase	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    fimbul_static	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    fimbul_attack	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    fimbul_teleport	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    fimbul_explode	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/boss_elecarmet	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    elecarmet	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/elecourmaline	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    elecourmaline_keystone	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    elecourmaline	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/hat_cowboy	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    hat_cowboy	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/dualwrench	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dualwrench	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/tourmalinecore	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    tourmalinecore	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/icire_rock	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    icire_rock	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/guitar_miguel	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    guitar_miguel	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    guitar_miguel_ground_fx	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    guitar_miguel_float_fx	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    guitar_miguel_dirt_fx	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/the_gifted	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    web_hump_item	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    web_hump_item_placer	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    web_hump	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    soul_contracts	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/saddle_baggage	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    saddle_baggage	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/tripleshovelaxe	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    tripleshovelaxe	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/hat_albicans_mushroom	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    hat_albicans_mushroom	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/albicansmushroomhat_fx	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    albicanscloud_fx	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    albicanscloud_overlay_fx	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    escapinggerms_fx	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    residualspores_fx	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/buff_sporeresistance	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_sporeresistance	
+[00:00:06]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering default mod prefab	
+[00:00:10]: 	Load FE	
+[00:00:10]: 	Load FE: done	
+[00:00:10]: THREAD - started 'FilesExistAsyncThread' (2912)
+[00:00:10]: FilesExistAsyncThread started (15377 files)...
+[00:00:10]: Check for write access: TRUE
+[00:00:10]: Check for read access: TRUE
+[00:00:10]: ModIndex: Load sequence finished successfully.	
+[00:00:10]: Reset() returning
+[00:00:10]: [IPC] Signal 'DST_Master_Kill' opened  #000005D4
+[00:00:10]: [IPC] Registering handler for signal #000005D4
+[00:00:10]: [IPC] Handle #000005D4 added to the Eventhandles
+[00:00:10]: [IPC] Signal 'DST_Master_Starting' opened  #000005AC
+[00:00:10]: [IPC] Sending signal... #000005AC
+[00:00:12]: [200] Account Communication Success (6)
+[00:00:12]: Received (KU_j_aPg5rg) from TokenPurpose
+[00:00:12]: Starting Dedicated Server Game	
+[00:00:12]: Network tick rate: U=15(2), D=0
+[00:00:12]: ... FilesExistAsyncThread complete
+[00:00:12]: About to start a server with the following settings:
+[00:00:12]:   Dedicated: true
+[00:00:12]:   Online: true
+[00:00:12]:   Passworded: false
+[00:00:12]:   ServerPort: 10999
+[00:00:12]:   SteamAuthPort: 8766
+[00:00:12]:   SteamMasterServerPort: 27016
+[00:00:12]:   ClanID: false
+[00:00:12]:   ClanOnly: false
+[00:00:12]:   ClanAdmin: false
+[00:00:12]:   LanOnly: false
+[00:00:12]:   FriendsOnly: false
+[00:00:12]:   EnableAutosaver: true
+[00:00:12]:   EncodeUserPath: true
+[00:00:12]:   PVP: false
+[00:00:12]:   MaxPlayers: 4
+[00:00:12]:   GameMode: survival
+[00:00:12]:   OverridenDNS: 
+[00:00:12]:   PauseWhenEmpty: true
+[00:00:12]:   IdleTimeout: 1800s
+[00:00:12]:   VoteEnabled: false
+[00:00:12]:   InternetBroadcasting: true
+[00:00:12]:   Intent: cooperative
+[00:00:12]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-1392778117	
+[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-375850593	
+[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-537902048	
+[00:00:12]: Online Server Started on port: 10999
+[00:00:12]: Found a level data override file with these contents:	
+[00:00:12]: 	K: 	desc	 V: 	标准《饥荒》体验。	
+[00:00:12]: 	K: 	hideminimap	 V: 	false	
+[00:00:12]: 	K: 	id	 V: 	SURVIVAL_TOGETHER	
+[00:00:12]: 	K: 	location	 V: 	forest	
+[00:00:12]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:12]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:12]: 	K: 	name	 V: 	默认	
+[00:00:12]: 	K: 	numrandom_set_pieces	 V: 	4	
+[00:00:12]: 	K: 	override_level_string	 V: 	false	
+[00:00:12]: 	K: 	overrides	 V: 	table: 097AFDD8	
+[00:00:12]: 		K: 	alternatehunt	 V: 	default	
+[00:00:12]: 		K: 	angrybees	 V: 	default	
+[00:00:12]: 		K: 	antliontribute	 V: 	default	
+[00:00:12]: 		K: 	autumn	 V: 	default	
+[00:00:12]: 		K: 	bearger	 V: 	default	
+[00:00:12]: 		K: 	beefalo	 V: 	default	
+[00:00:12]: 		K: 	beefaloheat	 V: 	default	
+[00:00:12]: 		K: 	bees	 V: 	default	
+[00:00:12]: 		K: 	berrybush	 V: 	default	
+[00:00:12]: 		K: 	birds	 V: 	default	
+[00:00:12]: 		K: 	boons	 V: 	default	
+[00:00:12]: 		K: 	branching	 V: 	default	
+[00:00:12]: 		K: 	butterfly	 V: 	default	
+[00:00:12]: 		K: 	buzzard	 V: 	default	
+[00:00:12]: 		K: 	cactus	 V: 	default	
+[00:00:12]: 		K: 	carrot	 V: 	default	
+[00:00:12]: 		K: 	catcoon	 V: 	default	
+[00:00:12]: 		K: 	chess	 V: 	default	
+[00:00:12]: 		K: 	day	 V: 	default	
+[00:00:12]: 		K: 	deciduousmonster	 V: 	default	
+[00:00:12]: 		K: 	deerclops	 V: 	default	
+[00:00:12]: 		K: 	disease_delay	 V: 	none	
+[00:00:12]: 		K: 	dragonfly	 V: 	default	
+[00:00:12]: 		K: 	flint	 V: 	default	
+[00:00:12]: 		K: 	flowers	 V: 	default	
+[00:00:12]: 		K: 	frograin	 V: 	default	
+[00:00:12]: 		K: 	goosemoose	 V: 	default	
+[00:00:12]: 		K: 	grass	 V: 	default	
+[00:00:12]: 		K: 	has_ocean	 V: 	true	
+[00:00:12]: 		K: 	houndmound	 V: 	default	
+[00:00:12]: 		K: 	hounds	 V: 	default	
+[00:00:12]: 		K: 	hunt	 V: 	default	
+[00:00:12]: 		K: 	keep_disconnected_tiles	 V: 	true	
+[00:00:12]: 		K: 	krampus	 V: 	default	
+[00:00:12]: 		K: 	layout_mode	 V: 	LinkNodesByKeys	
+[00:00:12]: 		K: 	liefs	 V: 	default	
+[00:00:12]: 		K: 	lightning	 V: 	default	
+[00:00:12]: 		K: 	lightninggoat	 V: 	default	
+[00:00:12]: 		K: 	loop	 V: 	always	
+[00:00:12]: 		K: 	lureplants	 V: 	default	
+[00:00:12]: 		K: 	marshbush	 V: 	default	
+[00:00:12]: 		K: 	merm	 V: 	default	
+[00:00:12]: 		K: 	meteorshowers	 V: 	default	
+[00:00:12]: 		K: 	meteorspawner	 V: 	default	
+[00:00:12]: 		K: 	moles	 V: 	default	
+[00:00:12]: 		K: 	mushroom	 V: 	default	
+[00:00:12]: 		K: 	no_joining_islands	 V: 	true	
+[00:00:12]: 		K: 	no_wormholes_to_disconnected_tiles	 V: 	true	
+[00:00:12]: 		K: 	penguins	 V: 	default	
+[00:00:12]: 		K: 	perd	 V: 	default	
+[00:00:12]: 		K: 	petrification	 V: 	default	
+[00:00:12]: 		K: 	pigs	 V: 	default	
+[00:00:12]: 		K: 	ponds	 V: 	default	
+[00:00:12]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:12]: 		K: 	rabbits	 V: 	default	
+[00:00:12]: 		K: 	reeds	 V: 	default	
+[00:00:12]: 		K: 	regrowth	 V: 	default	
+[00:00:12]: 		K: 	roads	 V: 	default	
+[00:00:12]: 		K: 	rock	 V: 	default	
+[00:00:12]: 		K: 	rock_ice	 V: 	default	
+[00:00:12]: 		K: 	sapling	 V: 	default	
+[00:00:12]: 		K: 	season_start	 V: 	default	
+[00:00:12]: 		K: 	specialevent	 V: 	default	
+[00:00:12]: 		K: 	spiders	 V: 	default	
+[00:00:12]: 		K: 	spring	 V: 	default	
+[00:00:12]: 		K: 	start_location	 V: 	default	
+[00:00:12]: 		K: 	summer	 V: 	default	
+[00:00:12]: 		K: 	tallbirds	 V: 	default	
+[00:00:12]: 		K: 	task_set	 V: 	default	
+[00:00:12]: 		K: 	tentacles	 V: 	default	
+[00:00:12]: 		K: 	touchstone	 V: 	default	
+[00:00:12]: 		K: 	trees	 V: 	default	
+[00:00:12]: 		K: 	tumbleweed	 V: 	default	
+[00:00:12]: 		K: 	walrus	 V: 	default	
+[00:00:12]: 		K: 	weather	 V: 	default	
+[00:00:12]: 		K: 	wildfires	 V: 	default	
+[00:00:12]: 		K: 	winter	 V: 	default	
+[00:00:12]: 		K: 	world_size	 V: 	medium	
+[00:00:12]: 		K: 	wormhole_prefab	 V: 	wormhole	
+[00:00:12]: 	K: 	random_set_pieces	 V: 	table: 097AFCE8	
+[00:00:12]: 		K: 	1	 V: 	Sculptures_2	
+[00:00:12]: 		K: 	2	 V: 	Sculptures_3	
+[00:00:12]: 		K: 	3	 V: 	Sculptures_4	
+[00:00:12]: 		K: 	4	 V: 	Sculptures_5	
+[00:00:12]: 		K: 	5	 V: 	Chessy_1	
+[00:00:12]: 		K: 	6	 V: 	Chessy_2	
+[00:00:12]: 		K: 	7	 V: 	Chessy_3	
+[00:00:12]: 		K: 	8	 V: 	Chessy_4	
+[00:00:12]: 		K: 	9	 V: 	Chessy_5	
+[00:00:12]: 		K: 	10	 V: 	Chessy_6	
+[00:00:12]: 		K: 	11	 V: 	Maxwell1	
+[00:00:12]: 		K: 	12	 V: 	Maxwell2	
+[00:00:12]: 		K: 	13	 V: 	Maxwell3	
+[00:00:12]: 		K: 	14	 V: 	Maxwell4	
+[00:00:12]: 		K: 	15	 V: 	Maxwell6	
+[00:00:12]: 		K: 	16	 V: 	Maxwell7	
+[00:00:12]: 		K: 	17	 V: 	Warzone_1	
+[00:00:12]: 		K: 	18	 V: 	Warzone_2	
+[00:00:12]: 		K: 	19	 V: 	Warzone_3	
+[00:00:12]: 	K: 	required_prefabs	 V: 	table: 097AFFE0	
+[00:00:12]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:12]: 	K: 	required_setpieces	 V: 	table: 097AFD38	
+[00:00:12]: 		K: 	1	 V: 	Sculptures_1	
+[00:00:12]: 		K: 	2	 V: 	Maxwell5	
+[00:00:12]: 	K: 	substitutes	 V: 	table: 097AFC20	
+[00:00:12]: 	K: 	version	 V: 	4	
+[00:00:12]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:12]: Overwriting savedata with level data file.	
+[00:00:12]: Not applying world gen overrides.	
+[00:00:12]: Collecting garbage...
+[00:00:12]: lua_gc took 0.03 seconds
+[00:00:12]: ~ShardLuaProxy()
+[00:00:12]: ~cEventLeaderboardProxy()
+[00:00:12]: ~ItemServerLuaProxy()
+[00:00:12]: ~InventoryLuaProxy()
+[00:00:12]: ~NetworkLuaProxy()
+[00:00:12]: ~SimLuaProxy()
+[00:00:12]: lua_close took 0.07 seconds
+[00:00:12]: ReleaseAll
+[00:00:12]: ReleaseAll Finished
+[00:00:12]: cGame::StartPlaying
+[00:00:12]: LOADING LUA
+[00:00:12]: DoLuaFile scripts/main.lua
+[00:00:12]: DoLuaFile loading buffer scripts/main.lua
+[00:00:12]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:14]:   taskgrouplist:	default	联机版	
+[00:00:14]:   taskgrouplist:	classic	经典	
+[00:00:14]:   taskgrouplist:	cave_default	地下	
+[00:00:14]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:14]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:14]: running main.lua
+	
+[00:00:14]: unloading prefabs for mod MOD_workshop-375850593	
+[00:00:14]: unloading prefabs for mod MOD_workshop-666155465	
+[00:00:14]: unloading prefabs for mod MOD_workshop-537902048	
+[00:00:14]: unloading prefabs for mod MOD_workshop-1392778117	
+[00:00:14]: loaded modindex	
+[00:00:14]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:14]: modoverrides.lua enabling workshop-666155465	
+[00:00:14]: modoverrides.lua enabling workshop-375850593	
+[00:00:14]: modoverrides.lua enabling workshop-537902048	
+[00:00:14]: modoverrides.lua enabling workshop-1392778117	
+[00:00:14]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1392778117	
+[00:00:14]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:14]: ModIndex:GetModsToLoad inserting moddir, 	workshop-537902048	
+[00:00:14]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:00:14]: Could not load mod_config_data/modconfiguration_workshop-1392778117	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:14]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:14]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:14]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:14]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-537902048	
+[00:00:14]: Overriding mod workshop-537902048's option picking_rate with value normal	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-1392778117	
+[00:00:14]: Overriding mod workshop-1392778117's option CropYields with value 0	
+[00:00:14]: Overriding mod workshop-1392778117's option PrayForRain with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option FlashAndCrush with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option SuperbCuisine with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option FestivalRecipes with value false	
+[00:00:14]: Overriding mod workshop-1392778117's option OverripeTime with value 1	
+[00:00:14]: Overriding mod workshop-1392778117's option CleaningUpStench with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option FlowersPower with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option BookRecipetabs with value bookbuilder	
+[00:00:14]: Overriding mod workshop-1392778117's option FlowerWeaponsChance with value 0.03	
+[00:00:14]: Overriding mod workshop-1392778117's option GrowthRate with value 1	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option TechUnlock with value prototyper	
+[00:00:14]: Overriding mod workshop-1392778117's option DesertSecret with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option PestRisk with value 0.007	
+[00:00:14]: Overriding mod workshop-1392778117's option NewCrops with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option Language with value auto	
+[00:00:14]: Loading mod: workshop-1392778117 ([DST] Legion-棱镜) Version:6.3.0	
+[00:00:14]: Could not load mod_config_data/modconfiguration_workshop-375850593	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:14]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:14]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:14]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:14]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-537902048	
+[00:00:14]: Overriding mod workshop-537902048's option picking_rate with value normal	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-1392778117	
+[00:00:14]: Overriding mod workshop-1392778117's option CropYields with value 0	
+[00:00:14]: Overriding mod workshop-1392778117's option PrayForRain with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option FlashAndCrush with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option SuperbCuisine with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option FestivalRecipes with value false	
+[00:00:14]: Overriding mod workshop-1392778117's option OverripeTime with value 1	
+[00:00:14]: Overriding mod workshop-1392778117's option CleaningUpStench with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option FlowersPower with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option BookRecipetabs with value bookbuilder	
+[00:00:14]: Overriding mod workshop-1392778117's option FlowerWeaponsChance with value 0.03	
+[00:00:14]: Overriding mod workshop-1392778117's option GrowthRate with value 1	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option TechUnlock with value prototyper	
+[00:00:14]: Overriding mod workshop-1392778117's option DesertSecret with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option PestRisk with value 0.007	
+[00:00:14]: Overriding mod workshop-1392778117's option NewCrops with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option Language with value auto	
+[00:00:14]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:00:14]: Could not load mod_config_data/modconfiguration_workshop-537902048	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:14]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:14]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:14]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:14]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-537902048	
+[00:00:14]: Overriding mod workshop-537902048's option picking_rate with value normal	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-1392778117	
+[00:00:14]: Overriding mod workshop-1392778117's option CropYields with value 0	
+[00:00:14]: Overriding mod workshop-1392778117's option PrayForRain with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option FlashAndCrush with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option SuperbCuisine with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option FestivalRecipes with value false	
+[00:00:14]: Overriding mod workshop-1392778117's option OverripeTime with value 1	
+[00:00:14]: Overriding mod workshop-1392778117's option CleaningUpStench with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option FlowersPower with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option BookRecipetabs with value bookbuilder	
+[00:00:14]: Overriding mod workshop-1392778117's option FlowerWeaponsChance with value 0.03	
+[00:00:14]: Overriding mod workshop-1392778117's option GrowthRate with value 1	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option TechUnlock with value prototyper	
+[00:00:14]: Overriding mod workshop-1392778117's option DesertSecret with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option PestRisk with value 0.007	
+[00:00:14]: Overriding mod workshop-1392778117's option NewCrops with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option Language with value auto	
+[00:00:14]: Loading mod: workshop-537902048 (Scythestest) Version:2.3	
+[00:00:14]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:14]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:14]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:14]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:14]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:14]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-537902048	
+[00:00:14]: Overriding mod workshop-537902048's option picking_rate with value normal	
+[00:00:14]: applying configuration_options from modoverrides.lua to mod workshop-1392778117	
+[00:00:14]: Overriding mod workshop-1392778117's option CropYields with value 0	
+[00:00:14]: Overriding mod workshop-1392778117's option PrayForRain with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option FlashAndCrush with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option SuperbCuisine with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option FestivalRecipes with value false	
+[00:00:14]: Overriding mod workshop-1392778117's option OverripeTime with value 1	
+[00:00:14]: Overriding mod workshop-1392778117's option CleaningUpStench with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option FlowersPower with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option BookRecipetabs with value bookbuilder	
+[00:00:14]: Overriding mod workshop-1392778117's option FlowerWeaponsChance with value 0.03	
+[00:00:14]: Overriding mod workshop-1392778117's option GrowthRate with value 1	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option Title with value 	
+[00:00:14]: Overriding mod workshop-1392778117's option TechUnlock with value prototyper	
+[00:00:14]: Overriding mod workshop-1392778117's option DesertSecret with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option PestRisk with value 0.007	
+[00:00:14]: Overriding mod workshop-1392778117's option NewCrops with value true	
+[00:00:14]: Overriding mod workshop-1392778117's option Language with value auto	
+[00:00:14]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.50	
+[00:00:14]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:00:14]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:14]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmain.lua	
+[00:00:14]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:14]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:14]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:00:14]: ShowMe version:	0.50	
+[00:00:14]: show_food_units	-1	-1	-1	
+[00:00:14]: show_uses	-1	-1	-1	
+[00:00:14]: Mod: workshop-537902048 (Scythestest)	Loading modworldgenmain.lua	
+[00:00:14]: Mod: workshop-537902048 (Scythestest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:14]: Mod: workshop-537902048 (Scythestest)	Loading modmain.lua	
+[00:00:14]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:14]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:14]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:00:14]: Action defined at 	../mods/workshop-537902048/modmain.lua:130 in () ? (main) <0-0>	
+[00:00:14]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	Loading modworldgenmain.lua	
+[00:00:14]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	Loading modmain.lua	
+[00:00:14]: modimport: ../mods/workshop-1392778117/scripts/languages/strings_chinese.lua	
+[00:00:14]: modimport: ../mods/workshop-1392778117/scripts/hotreload_legion.lua	
+[00:00:14]: modimport: ../mods/workshop-1392778117/scripts/apublicsupporter.lua	
+[00:00:14]: modimport: ../mods/workshop-1392778117/scripts/widgetcreation_legion.lua	
+[00:00:14]: modimport: ../mods/workshop-1392778117/scripts/flowerspower_legion.lua	
+[00:00:14]: modimport: ../mods/workshop-1392778117/scripts/desertsecret_legion.lua	
+[00:00:14]: modimport: ../mods/workshop-1392778117/scripts/prayforrain_legion.lua	
+[00:00:14]: modimport: ../mods/workshop-1392778117/scripts/new_farm_legion.lua	
+[00:00:14]: modimport: ../mods/workshop-1392778117/scripts/new_techtree_legion.lua	
+[00:00:14]: modimport: ../mods/workshop-1392778117/scripts/flashandcrush_legion.lua	
+[00:00:14]: upvaluehelper loaded	
+[00:00:15]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:15]: LOADING LUA SUCCESS
+[00:00:15]: Registering mod namespace "showmeshint"
+[00:00:15]: Registering mod namespace "showme"
+[00:00:15]: PlayerDeaths could not load morgue	
+[00:00:15]: PlayerHistory could not load player_history	
+[00:00:15]: ServerPreferences could not load server_preferences	
+[00:00:15]: bloom_enabled	false	
+[00:00:15]: OnLoad slot	2	: World options was nil! Populating with default.	
+[00:00:15]: OnLoad slot	3	: World options was nil! Populating with default.	
+[00:00:15]: OnLoad slot	4	: World options was nil! Populating with default.	
+[00:00:15]: OnLoad slot	5	: World options was nil! Populating with default.	
+[00:00:15]: loaded saveindex	
+[00:00:15]: OnFilesLoaded()	
+[00:00:15]: OnUpdatePurchaseStateComplete	
+[00:00:15]: Load Slot: ... generating new world	
+[00:00:15]: [IPC] Signal 'DST_Master_WorldGen' opened  #000004C8
+[00:00:15]: [IPC] Sending signal... #000004C8
+[00:00:15]: WorldSim::SimThread::SimThread()
+[00:00:15]: ABOUT TO INSTALL STACKTRACE
+[00:00:15]: DoLuaFile scripts/stacktrace.lua
+[00:00:15]: DoLuaFile loading buffer scripts/stacktrace.lua
+[00:00:15]: INSTALLED STACKTRACE
+[00:00:15]: WorldSim::SimThread::SimThread() complete
+[00:00:15]: THREAD - started 'WorldSim' (5548)
+[00:00:15]: WorldSim::SimThread::Main()
+[00:00:15]: DoLuaFile scripts/worldgen_main.lua
+[00:00:15]: DoLuaFile loading buffer scripts/worldgen_main.lua
+[00:00:15]: Check for write access: TRUE
+[00:00:15]: Check for read access: TRUE
+[00:00:15]: DLC enabled : 	false	
+[00:00:15]: ModIndex: Load sequence finished successfully.	
+[00:00:15]: Reset() returning
+[00:00:15]:   taskgrouplist:	default	Together	
+[00:00:15]:   taskgrouplist:	classic	Classic	
+[00:00:15]:   taskgrouplist:	cave_default	Underground	
+[00:00:15]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:15]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-666155465	
+[00:00:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-375850593	
+[00:00:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-537902048	
+[00:00:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-1392778117	
+[00:00:15]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.50	
+[00:00:15]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:00:15]: Loading mod: workshop-537902048 (Scythestest) Version:2.3	
+[00:00:15]: Loading mod: workshop-1392778117 ([DST] Legion-棱镜) Version:6.3.0	
+[00:00:15]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:00:15]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:15]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:15]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:15]: Mod: workshop-537902048 (Scythestest)	Loading modworldgenmain.lua	
+[00:00:15]: Mod: workshop-537902048 (Scythestest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:15]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	Loading modworldgenmain.lua	
+[00:00:15]: running worldgen_main.lua
+	
+[00:00:15]: SEED = 	1589959976	
+[00:00:15]: Generating world with these parameters:	
+[00:00:15]: level_type	SURVIVAL	
+[00:00:15]: level_data:	
+[00:00:15]: 	K: 	1	 V: 	table: 0AE75CF0	
+[00:00:15]: 		K: 	desc	 V: 	标准《饥荒》体验。	
+[00:00:15]: 		K: 	hideminimap	 V: 	false	
+[00:00:15]: 		K: 	id	 V: 	SURVIVAL_TOGETHER	
+[00:00:15]: 		K: 	location	 V: 	forest	
+[00:00:15]: 		K: 	max_playlist_position	 V: 	999	
+[00:00:15]: 		K: 	min_playlist_position	 V: 	0	
+[00:00:15]: 		K: 	name	 V: 	默认	
+[00:00:15]: 		K: 	numrandom_set_pieces	 V: 	4	
+[00:00:15]: 		K: 	override_level_string	 V: 	false	
+[00:00:15]: 		K: 	overrides	 V: 	table: 0AE75F48	
+[00:00:15]: 			K: 	alternatehunt	 V: 	default	
+[00:00:15]: 			K: 	angrybees	 V: 	default	
+[00:00:15]: 			K: 	antliontribute	 V: 	default	
+[00:00:15]: 			K: 	autumn	 V: 	default	
+[00:00:15]: 			K: 	bearger	 V: 	default	
+[00:00:15]: 			K: 	beefalo	 V: 	default	
+[00:00:15]: 			K: 	beefaloheat	 V: 	default	
+[00:00:15]: 			K: 	bees	 V: 	default	
+[00:00:15]: 			K: 	berrybush	 V: 	default	
+[00:00:15]: 			K: 	birds	 V: 	default	
+[00:00:15]: 			K: 	boons	 V: 	default	
+[00:00:15]: 			K: 	branching	 V: 	default	
+[00:00:15]: 			K: 	butterfly	 V: 	default	
+[00:00:15]: 			K: 	buzzard	 V: 	default	
+[00:00:15]: 			K: 	cactus	 V: 	default	
+[00:00:15]: 			K: 	carrot	 V: 	default	
+[00:00:15]: 			K: 	catcoon	 V: 	default	
+[00:00:15]: 			K: 	chess	 V: 	default	
+[00:00:15]: 			K: 	day	 V: 	default	
+[00:00:15]: 			K: 	deciduousmonster	 V: 	default	
+[00:00:15]: 			K: 	deerclops	 V: 	default	
+[00:00:15]: 			K: 	disease_delay	 V: 	none	
+[00:00:15]: 			K: 	dragonfly	 V: 	default	
+[00:00:15]: 			K: 	flint	 V: 	default	
+[00:00:15]: 			K: 	flowers	 V: 	default	
+[00:00:15]: 			K: 	frograin	 V: 	default	
+[00:00:15]: 			K: 	goosemoose	 V: 	default	
+[00:00:15]: 			K: 	grass	 V: 	default	
+[00:00:15]: 			K: 	has_ocean	 V: 	true	
+[00:00:15]: 			K: 	houndmound	 V: 	default	
+[00:00:15]: 			K: 	hounds	 V: 	default	
+[00:00:15]: 			K: 	hunt	 V: 	default	
+[00:00:15]: 			K: 	keep_disconnected_tiles	 V: 	true	
+[00:00:15]: 			K: 	krampus	 V: 	default	
+[00:00:15]: 			K: 	layout_mode	 V: 	LinkNodesByKeys	
+[00:00:15]: 			K: 	liefs	 V: 	default	
+[00:00:15]: 			K: 	lightning	 V: 	default	
+[00:00:15]: 			K: 	lightninggoat	 V: 	default	
+[00:00:15]: 			K: 	loop	 V: 	always	
+[00:00:15]: 			K: 	lureplants	 V: 	default	
+[00:00:15]: 			K: 	marshbush	 V: 	default	
+[00:00:15]: 			K: 	merm	 V: 	default	
+[00:00:15]: 			K: 	meteorshowers	 V: 	default	
+[00:00:15]: 			K: 	meteorspawner	 V: 	default	
+[00:00:15]: 			K: 	moles	 V: 	default	
+[00:00:15]: 			K: 	mushroom	 V: 	default	
+[00:00:15]: 			K: 	no_joining_islands	 V: 	true	
+[00:00:15]: 			K: 	no_wormholes_to_disconnected_tiles	 V: 	true	
+[00:00:15]: 			K: 	penguins	 V: 	default	
+[00:00:15]: 			K: 	perd	 V: 	default	
+[00:00:15]: 			K: 	petrification	 V: 	default	
+[00:00:15]: 			K: 	pigs	 V: 	default	
+[00:00:15]: 			K: 	ponds	 V: 	default	
+[00:00:15]: 			K: 	prefabswaps_start	 V: 	default	
+[00:00:15]: 			K: 	rabbits	 V: 	default	
+[00:00:15]: 			K: 	reeds	 V: 	default	
+[00:00:15]: 			K: 	regrowth	 V: 	default	
+[00:00:15]: 			K: 	roads	 V: 	default	
+[00:00:15]: 			K: 	rock	 V: 	default	
+[00:00:15]: 			K: 	rock_ice	 V: 	default	
+[00:00:15]: 			K: 	sapling	 V: 	default	
+[00:00:15]: 			K: 	season_start	 V: 	default	
+[00:00:15]: 			K: 	specialevent	 V: 	default	
+[00:00:15]: 			K: 	spiders	 V: 	default	
+[00:00:15]: 			K: 	spring	 V: 	default	
+[00:00:15]: 			K: 	start_location	 V: 	default	
+[00:00:15]: 			K: 	summer	 V: 	default	
+[00:00:15]: 			K: 	tallbirds	 V: 	default	
+[00:00:15]: 			K: 	task_set	 V: 	default	
+[00:00:15]: 			K: 	tentacles	 V: 	default	
+[00:00:15]: 			K: 	touchstone	 V: 	default	
+[00:00:15]: 			K: 	trees	 V: 	default	
+[00:00:15]: 			K: 	tumbleweed	 V: 	default	
+[00:00:15]: 			K: 	walrus	 V: 	default	
+[00:00:15]: 			K: 	weather	 V: 	default	
+[00:00:15]: 			K: 	wildfires	 V: 	default	
+[00:00:15]: 			K: 	winter	 V: 	default	
+[00:00:15]: 			K: 	world_size	 V: 	medium	
+[00:00:15]: 			K: 	wormhole_prefab	 V: 	wormhole	
+[00:00:15]: 		K: 	random_set_pieces	 V: 	table: 0AE77848	
+[00:00:15]: 			K: 	1	 V: 	Sculptures_2	
+[00:00:15]: 			K: 	2	 V: 	Sculptures_3	
+[00:00:15]: 			K: 	3	 V: 	Sculptures_4	
+[00:00:15]: 			K: 	4	 V: 	Sculptures_5	
+[00:00:15]: 			K: 	5	 V: 	Chessy_1	
+[00:00:15]: 			K: 	6	 V: 	Chessy_2	
+[00:00:15]: 			K: 	7	 V: 	Chessy_3	
+[00:00:15]: 			K: 	8	 V: 	Chessy_4	
+[00:00:15]: 			K: 	9	 V: 	Chessy_5	
+[00:00:15]: 			K: 	10	 V: 	Chessy_6	
+[00:00:15]: 			K: 	11	 V: 	Maxwell1	
+[00:00:15]: 			K: 	12	 V: 	Maxwell2	
+[00:00:15]: 			K: 	13	 V: 	Maxwell3	
+[00:00:15]: 			K: 	14	 V: 	Maxwell4	
+[00:00:15]: 			K: 	15	 V: 	Maxwell6	
+[00:00:15]: 			K: 	16	 V: 	Maxwell7	
+[00:00:15]: 			K: 	17	 V: 	Warzone_1	
+[00:00:15]: 			K: 	18	 V: 	Warzone_2	
+[00:00:15]: 			K: 	19	 V: 	Warzone_3	
+[00:00:15]: 		K: 	required_prefabs	 V: 	table: 0AE75958	
+[00:00:15]: 			K: 	1	 V: 	multiplayer_portal	
+[00:00:15]: 		K: 	required_setpieces	 V: 	table: 0AE77960	
+[00:00:15]: 			K: 	1	 V: 	Sculptures_1	
+[00:00:15]: 			K: 	2	 V: 	Maxwell5	
+[00:00:15]: 		K: 	substitutes	 V: 	table: 0AE77258	
+[00:00:15]: 		K: 	version	 V: 	4	
+[00:00:15]: 
+#######
+#
+# Generating SURVIVAL Mode Level
+#
+#######
+	
+[00:00:15]: Prefab Swap Selection: regular grass	
+[00:00:15]: Prefab Swap Selection: regular twigs	
+[00:00:15]: Prefab Swap Selection: regular berries	
+[00:00:15]: Applying mod to task set 'default'	
+[00:00:15]: Applying mod to task 'Make a pick'	
+[00:00:15]: Applying mod to task 'Squeltch'	
+[00:00:15]: Applying mod to task 'Speak to the king'	
+[00:00:15]: Applying mod to task 'Forest hunters'	
+[00:00:15]: Applying mod to task 'Forest hunters'	
+[00:00:15]: Applying mod to task 'Lightning Bluff'	
+[00:00:15]: Applying mod to task 'MoonIsland_Mine'	
+[00:00:16]: Sculptures_1 added to task Beeeees!	
+[00:00:16]: Maxwell5 added to task Squeltch	
+[00:00:16]: Warzone_1 added to task Beeeees!	
+[00:00:16]: Maxwell7 added to task Mole Colony Deciduous	
+[00:00:16]: Maxwell7 added to task Badlands	
+[00:00:16]: Sculptures_3 added to task For a nice walk	
+[00:00:16]: New size:	400	medium	
+[00:00:16]: Creating story...	
+[00:00:16]: [Story Gen] Generate nodes. Starting at: 'Make a pick'	
+[00:00:16]: [Story Gen] LinkNodesByKeys	
+[00:00:16]: Finding valid start task...	
+[00:00:16]:    ...picked 	Make a pick	
+[00:00:16]: Has start node	Clearing	
+[00:00:16]: Adding Background Nodes	
+[00:00:16]: [Story Gen] Adding Cove Nodes	
+[00:00:16]: [Ocean] Processing ocean fake room content.	
+[00:00:16]: [WorldSimActual::WorldGen_InitializeNodePoints]
+[00:00:16]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:00:16]: GenerateVoronoiMap [100]:
+[00:00:18]: ...Done.
+[00:00:18]: [Story Gen] Finding nodes on mainland to connect a region to.	
+[00:00:18]: [Story Gen] Generate nodes. Starting at: 'MoonIsland_IslandShards'	
+[00:00:18]: [Story Gen] RestrictNodesByKey	
+[00:00:18]: [Story Gen] Adding Cove Nodes	
+[00:00:18]: [WorldSimActual::WorldGen_AddNewPositions]
+[00:00:18]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:00:18]: GenerateVoronoiMap [50]:
+[00:00:19]: ...Done.
+[00:00:19]: ... story created	
+[00:00:19]: Baking map...	400	
+[00:00:19]: [WorldSimActual::WorldGen_Commit] worldgen success.
+[00:00:19]: [WorldSimActual::ConvertToTileMap]
+[00:00:19]: [ConvertToTileMap]
+[00:00:19]: [WorldSimActual::ConvertToTileMap] complete
+[00:00:19]: [WorldSimActual::SeparateIslands]
+[00:00:19]: [SeparateIslands]
+[00:00:19]: [WorldSimActual::SeparateIslands] complete
+[00:00:19]: Map Baked!	
+[00:00:19]: [WorldSimActual::ForceConnectivity]
+[00:00:19]: [GenerateLandmasses]
+[00:00:19]: [GenerateLandmasses] islands: 14
+[00:00:19]: [MergeConnectedLandmasses] false
+[00:00:19]: [WorldSimActual::ForceConnectivity] complete
+[00:00:19]: [WorldSimActual::DrawRoads]
+[00:00:19]: [DrawRoads]
+[00:00:19]: [WorldSimActual::DrawRoads] complete
+[00:00:19]: Encoding...	
+[00:00:19]: Encoding... DONE	
+[00:00:19]: Checking Tags	
+[00:00:19]: Populating voronoi...	
+[00:00:19]: Warning! Could not find a spot for Sculptures_1 in node Beeeees!:1:BeeQueenBee	
+[00:00:19]: Warning! Could not find a spot for MooseNest in node Beeeees!:1:BeeQueenBee	
+[00:00:19]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:19]: [ReplaceSingleNonLandTiles] Replaced 10 tiles.
+[00:00:19]: Not checking for disconnected tiles.	
+[00:00:20]: [Ocean] Placing ocean set pieces.	
+[00:00:20]: [Ocean] Placed 8 of 8 ocean set pieces.	
+[00:00:20]: [Ocean] Convert impassible to water...	
+[00:00:20]: [Ocean]  Square fill...	
+[00:00:21]: [Ocean]  Ground fill...	
+[00:00:21]: [Ocean]  Noise...	
+[00:00:22]: [Ocean]  Blend...	
+[00:00:22]: [Ocean]  Adding shoreline...	
+[00:00:22]: [Ocean] Void Outline...	
+[00:00:22]: [Ocean] Populating the ocean with lots of fun things to do...	
+[00:00:22]: [Ocean] Placing ocean set pieces.	
+[00:00:22]: [Ocean] Placed 9 of 9 ocean set pieces.	
+[00:00:22]: [Ocean] Placing ocean set pieces.	
+[00:00:22]: [Ocean] Placed 1 of 1 ocean set pieces.	
+[00:00:22]: [Ocean] Placing ocean set pieces.	
+[00:00:22]: [Ocean] Placed 1 of 1 ocean set pieces.	
+[00:00:22]: Checking Required Prefab moon_altar_rock_idol has at least 1 instances (1 found).	
+[00:00:22]: Checking Required Prefab moon_altar_rock_glass has at least 1 instances (1 found).	
+[00:00:22]: Checking Required Prefab crabking has at least 1 instances (1 found).	
+[00:00:22]: Checking Required Prefab pigking has at least 1 instances (1 found).	
+[00:00:22]: Checking Required Prefab gravestone has at least 1 instances (33 found).	
+[00:00:22]: Checking Required Prefab moon_altar_rock_seed has at least 1 instances (1 found).	
+[00:00:22]: Checking Required Prefab hermithouse_construction1 has at least 1 instances (1 found).	
+[00:00:22]: Checking Required Prefab moon_fissure has at least 2 instances (75 found).	
+[00:00:22]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:22]: [ReplaceSingleNonLandTiles] Replaced 0 tiles.
+[00:00:22]: Done forest map gen!	
+[00:00:22]: Checking map...	
+[00:00:22]: Generation complete	
+[00:00:23]: WorldSim::SimThread::Main() complete
+[00:00:23]: Serializing world: session/52F72ABCB501D120/0000000002
+[00:00:23]: Klump load on boot started.	
+[00:00:23]: Klump files loaded: 	0	
+[00:00:23]: 	Unload FE	
+[00:00:23]: 	Unload FE done	
+[00:00:23]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[00:00:23]: Could not unload undefined prefab (ocean_splash_med1)
+[00:00:23]: Could not unload undefined prefab (splash_ocean)
+[00:00:23]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[00:00:23]: Could not unload undefined prefab (ocean_splash_med1)
+[00:00:23]: Could not unload undefined prefab (splash_ocean)
+[00:00:25]: Mod: workshop-375850593 (Extra Equip Slots)	Registering prefabs	
+[00:00:25]: Mod: workshop-375850593 (Extra Equip Slots)	  Registering default mod prefab	
+[00:00:25]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:25]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:25]: Mod: workshop-537902048 (Scythestest)	Registering prefabs	
+[00:00:25]: Mod: workshop-537902048 (Scythestest)	  Registering prefab file: prefabs/scythe	
+[00:00:25]: Mod: workshop-537902048 (Scythestest)	    scythe	
+[00:00:25]: Mod: workshop-537902048 (Scythestest)	  Registering prefab file: prefabs/scythe_golden	
+[00:00:25]: Mod: workshop-537902048 (Scythestest)	    scythe_golden	
+[00:00:25]: Mod: workshop-537902048 (Scythestest)	  Registering default mod prefab	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	Registering prefabs	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/hat_lichen	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    hat_lichen	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    lichenhatlight	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/backcub	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    backcub	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/veggies_legion	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    monstrain_leaf	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    catmint	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    pineananas_seeds	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    pineananas	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    pineananas_cooked	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    petals_orchid	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    petals_lily	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerry	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerry_placer	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerry_cooked	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    petals_rose	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/plantables_legion	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dug_lilybush	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dug_lilybush_placer	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dug_rosebush	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dug_rosebush_placer	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cutted_lilybush	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cutted_lilybush_placer	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dug_orchidbush	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dug_orchidbush_placer	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cutted_rosebush	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cutted_rosebush_placer	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cutted_orchidbush	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cutted_orchidbush_placer	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/turfs_legion	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/statue_unknowntrophy	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    statue_unknowntrophy	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    statue_unknowntrophy_placer	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/wants_sandwitch	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cattenball	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/bush_flowers	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    rosebush	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    lilybush	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    orchidbush	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    neverfadebush	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/rosorns	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    rosorns	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/lileaves	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    lileaves	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/orchitwigs	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    orchitwigs	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/impact_orchid	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    impact_orchid	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/neverfade	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    neverfade	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    neverfade_placer	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/sachet	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    sachet	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/neverfade_butterfly	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    neverfade_butterfly	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/neverfade_shield	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    neverfade_shield	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/buff_butterflysblessing	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_butterflysblessing	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/foods_cookpot	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_ricedumpling	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_duriantartare	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_twistedrolllily	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_murmurananas	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_merrychristmassalad	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_shyerryjam	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_orchidcake	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_chilledrosejuice	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_sugarlesstrickmakercupcakes	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fishjoyramen	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_beggingmeat	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fleshnapoleon	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_roastedmarshmallows	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_bananamousse	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_medicinalliquor	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_pomegranatejelly	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_frenchsnailsbaked	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_neworleanswings	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_sugarlesstrickmakercupcakes_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_medicinalliquor_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_roastedmarshmallows_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_murmurananas_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_shyerryjam_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_neworleanswings_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_beggingmeat_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_neworleanswings_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_murmurananas_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_twistedrolllily_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_beggingmeat_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_beggingmeat_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_beggingmeat_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_sugarlesstrickmakercupcakes_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_medicinalliquor_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fleshnapoleon_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_neworleanswings_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_ricedumpling_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_chilledrosejuice_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_bananamousse_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_merrychristmassalad_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fishjoyramen_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_twistedrolllily_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_frenchsnailsbaked_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_frenchsnailsbaked_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_pomegranatejelly_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_pomegranatejelly_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fishjoyramen_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_merrychristmassalad_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_pomegranatejelly_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fleshnapoleon_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_chilledrosejuice_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_orchidcake_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_orchidcake_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_neworleanswings_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_murmurananas_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_sugarlesstrickmakercupcakes_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_twistedrolllily_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_merrychristmassalad_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fleshnapoleon_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_frenchsnailsbaked_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fishjoyramen_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_frenchsnailsbaked_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_shyerryjam_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fleshnapoleon_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_pomegranatejelly_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_orchidcake_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_roastedmarshmallows_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_medicinalliquor_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_duriantartare_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_fishjoyramen_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_chilledrosejuice_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_medicinalliquor_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_bananamousse_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_ricedumpling_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_bananamousse_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_murmurananas_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_duriantartare_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_shyerryjam_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_shyerryjam_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_ricedumpling_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_bananamousse_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_duriantartare_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_orchidcake_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_roastedmarshmallows_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_merrychristmassalad_spice_garlic	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_sugarlesstrickmakercupcakes_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_twistedrolllily_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_ricedumpling_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_duriantartare_spice_sugar	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_roastedmarshmallows_spice_salt	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dish_chilledrosejuice_spice_chili	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/debuff_panicvolcano	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    debuff_panicvolcano	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/buff_strengthenhancer	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_strengthenhancer	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/buff_bestappetite	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_bestappetite	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/buff_batdisguise	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_batdisguise	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/desertdefense	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    desertdefense	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/shyerries	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrymanager	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrytree1	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrytree2	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrytree3	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrytree4	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerryflower	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrylog	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrytree1_planted	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    shyerrytree3_planted	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/buff_healthstorage	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_healthstorage	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_healthstorage_super	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/sand_spike_legion	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    sandspike_short_legion	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    sandspike_med_legion	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    sandspike_tall_legion	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    sandspike_legion	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/raindonate	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    raindonate	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/monstrain	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    monstrain	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    squamousfruit	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/book_weather	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    book_weather	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/hat_mermbreathing	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    hat_mermbreathing	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/merm_scales	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    merm_scales	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/agronssword	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    agronssword	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/giantsfoot	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    giantsfoot	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/refractedmoonlight	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    refractedmoonlight	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/twoworldswords_fx	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    agronssword_fx	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    refractedmoonlight_fx	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/moon_dungeon	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    moondungeon	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/buff_hungerretarder	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_hungerretarder	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/plant_normal_legion	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    plant_normal_legion	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/farmingdungballs	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    farmingdungball	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    farmingdungball_item	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    farmingdungball_item_placer	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/wormwood_cropseeds_placer	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    wormwood_cropseeds_placer	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/cropgnat	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cropgnat	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    cropgnat_infester	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/ahandfulofwings	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    ahandfulofwings	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/boltwingout	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    boltwingout	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    boltwingout_fx	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    boltwingout_shuck	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/fimbul_axe	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    fimbul_axe	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/fimbul_fx	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    fimbul_lightning	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    fimbul_cracklebase	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    fimbul_static	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    fimbul_attack	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    fimbul_teleport	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    fimbul_explode	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/boss_elecarmet	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    elecarmet	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/elecourmaline	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    elecourmaline_keystone	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    elecourmaline	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/hat_cowboy	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    hat_cowboy	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/dualwrench	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    dualwrench	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/tourmalinecore	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    tourmalinecore	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/icire_rock	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    icire_rock	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/guitar_miguel	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    guitar_miguel	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    guitar_miguel_ground_fx	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    guitar_miguel_float_fx	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    guitar_miguel_dirt_fx	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/the_gifted	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    web_hump_item	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    web_hump_item_placer	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    web_hump	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    soul_contracts	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/saddle_baggage	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    saddle_baggage	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/tripleshovelaxe	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    tripleshovelaxe	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/hat_albicans_mushroom	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    hat_albicans_mushroom	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/albicansmushroomhat_fx	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    albicanscloud_fx	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    albicanscloud_overlay_fx	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    escapinggerms_fx	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    residualspores_fx	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering prefab file: prefabs/buff_sporeresistance	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	    buff_sporeresistance	
+[00:00:25]: Mod: workshop-1392778117 ([DST] Legion-棱镜)	  Registering default mod prefab	
+[00:00:27]: 	LOAD BE	
+[00:00:36]: 	LOAD BE: done	
+[00:00:36]: Begin Session: 52F72ABCB501D120
+[00:00:36]: saving to server_temp/server_save	
+[00:00:37]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:37]: MiniMapComponent::AddAtlas( ../mods/workshop-1392778117/images/map_icons/rosebush.xml )
+[00:00:37]: MiniMapComponent::AddAtlas( ../mods/workshop-1392778117/images/map_icons/lilybush.xml )
+[00:00:37]: MiniMapComponent::AddAtlas( ../mods/workshop-1392778117/images/map_icons/orchidbush.xml )
+[00:00:37]: MiniMapComponent::AddAtlas( ../mods/workshop-1392778117/images/map_icons/neverfadebush.xml )
+[00:00:37]: MiniMapComponent::AddAtlas( ../mods/workshop-1392778117/images/map_icons/shyerrytree.xml )
+[00:00:37]: MiniMapComponent::AddAtlas( ../mods/workshop-1392778117/images/map_icons/monstrain.xml )
+[00:00:37]: MiniMapComponent::AddAtlas( ../mods/workshop-1392778117/images/map_icons/agronssword.xml )
+[00:00:37]: MiniMapComponent::AddAtlas( ../mods/workshop-1392778117/images/map_icons/giantsfoot.xml )
+[00:00:37]: MiniMapComponent::AddAtlas( ../mods/workshop-1392778117/images/map_icons/refractedmoonlight.xml )
+[00:00:37]: MiniMapComponent::AddAtlas( ../mods/workshop-1392778117/images/map_icons/moondungeon.xml )
+[00:00:37]: MiniMapComponent::AddAtlas( ../mods/workshop-1392778117/images/map_icons/farmingdungball.xml )
+[00:00:37]: MiniMapComponent::AddAtlas( ../mods/workshop-1392778117/images/map_icons/elecourmaline.xml )
+[00:00:37]: Loading 16 new character(s)	
+[00:00:38]: Total 16 character(s) loaded	
+[00:00:38]: Loading Nav Grid	
+[00:00:39]: World generated on version 408761, using seed: 1589959976	
+[00:00:39]: OVERRIDE: setting	disease_delay	to	none	
+[00:00:44]: Reconstructing topology	
+[00:00:44]: 	...Sorting points	
+[00:00:44]: 	...Sorting edges	
+[00:00:44]: 	...Connecting nodes	
+[00:00:44]: 	...Validating connections	
+[00:00:44]: 	...Housekeeping	
+[00:00:44]: 	...Done!	
+[00:00:44]: 1 uploads added to server. From server_temp
+[00:00:44]: About to start a shard with these settings:
+[00:00:44]:   ShardName: [SHDMASTER]
+[00:00:44]:   ShardID: 1
+[00:00:44]:   ShardRole: MASTER
+[00:00:44]:   MasterHost: (null)
+[00:00:44]:   MasterBind: 127.0.0.1
+[00:00:44]:   MasterPort: 10888
+[00:00:44]: [Shard] Starting master server
+[00:00:44]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:44]: [Shard] Shard server started on port: 10888
+[00:00:44]: [IPC] Signal 'DST_Master_Ready' opened  #000006F4
+[00:00:44]: [IPC] Sending signal... #000006F4
+[00:00:44]: Telling Client our new session identifier: 52F72ABCB501D120
+[00:00:44]: [Steam] SteamGameServer_Init(8766, 10999, 27016)
+[00:00:44]: [Steam] SteamGameServer_Init success
+[00:00:44]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:00:44]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:00:44]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:00:45]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:00:45]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:00:45]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:00:45]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:00:45]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:00:45]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:00:45]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:00:45]: Sim paused
+[00:00:45]: Registering master server in Sing lobby
+[00:00:53]: Gameserver logged on to Steam, assigned identity steamid:90135417630877698
+[00:00:53]: SteamDatagramTransportLock held for 32.7ms.  This can be a performance problem.
+[00:00:55]: Registering master server in Sing lobby
+[00:01:28]: [Shard] Slave Caves(1262908233) connected: [LAN] 127.0.0.1
+[00:01:29]: [Shard] Slave Caves(1262908233) ready!
+[00:01:29]: World 1262908233 is now connected	
+[00:01:29]: Validating portal[1] <-> 1262908233[1] (disabled)	
+[00:01:29]: Validating portal[2] <-> 1262908233[2] (disabled)	
+[00:01:29]: Validating portal[3] <-> 1262908233[3] (disabled)	
+[00:01:29]: Validating portal[4] <-> 1262908233[4] (disabled)	
+[00:01:29]: Validating portal[5] <-> 1262908233[5] (disabled)	
+[00:01:29]: Validating portal[6] <-> 1262908233[6] (disabled)	
+[00:01:29]: Validating portal[7] <-> 1262908233[7] (disabled)	
+[00:01:29]: Validating portal[8] <-> 1262908233[8] (disabled)	
+[00:01:29]: Validating portal[9] <-> 1262908233[9] (disabled)	
+[00:01:29]: Validating portal[10] <-> 1262908233[10] (disabled)	
+[00:01:30]: Registering master server in Sing lobby
+[00:01:47]: New incoming connection 127.0.0.1|49624 <2008144920582827445>
+[00:01:47]: Client connected from [LAN] 127.0.0.1|49624 <2008144920582827445>
+[00:01:47]: ValidateGameSessionToken pgs-usc^KU_j_aPg5rg^DontStarveTogether^OsYN0UR6vrlP8lXBOUQIAtNsUnyER9iT8ips438FKq0= for <2008144920582827445>
+[00:01:50]: Client authenticated: (KU_j_aPg5rg) 1838679406
+[00:01:50]: [Steam] Authenticated host '76561198805594720'
+[00:01:52]: There is no active event to validate against.
+[00:01:52]: [Shard] Read save location file for (KU_j_aPg5rg)
+[00:01:52]: Registering master server in Sing lobby
+[00:02:09]: Resuming user: session/52F72ABCB501D120/A7LNV4CQGNBA
+[00:02:13]: [Steam] SendUserDisconnect for '76561198805594720'
+[00:02:13]: [Shard] (KU_j_aPg5rg) disconnected from [SHDMASTER](1)
+[00:02:13]: Registering master server in Sing lobby
+[00:02:13]: [IPC] Received shutdown signal.
+[00:02:14]: Serializing world: session/52F72ABCB501D120/0000000003
+[00:02:14]: Removing server from Sing lobby
+[00:02:14]: [Shard] Stopping shard mode
+[00:02:15]: Collecting garbage...
+[00:02:15]: lua_gc took 0.25 seconds
+[00:02:15]: ~ShardLuaProxy()
+[00:02:15]: ~cEventLeaderboardProxy()
+[00:02:15]: ~ItemServerLuaProxy()
+[00:02:15]: ~InventoryLuaProxy()
+[00:02:15]: ~NetworkLuaProxy()
+[00:02:15]: ~SimLuaProxy()
+[00:02:15]: lua_close took 0.44 seconds
+[00:02:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:15]: CurlRequestManager::ClientThread::Main() complete
+[00:02:15]: HttpClient2 discarded 0 callbacks.
+[00:02:15]: Shutting down

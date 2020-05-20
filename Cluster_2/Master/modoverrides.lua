@@ -1,0 +1,40 @@
+return {
+  ["workshop-1392778117"]={
+    configuration_options={
+      BookRecipetabs="bookbuilder",
+      CleaningUpStench=true,
+      CropYields=0,
+      DesertSecret=true,
+      FestivalRecipes=false,
+      FlashAndCrush=true,
+      FlowerWeaponsChance=0.03,
+      FlowersPower=true,
+      GrowthRate=1,
+      Language="auto",
+      NewCrops=true,
+      OverripeTime=1,
+      PestRisk=0.007,
+      PrayForRain=true,
+      SuperbCuisine=true,
+      TechUnlock="prototyper",
+      Title="" 
+    },
+    enabled=true 
+  },
+  ["workshop-375850593"]={ configuration_options={  }, enabled=true },
+  ["workshop-537902048"]={ configuration_options={ picking_rate="normal" }, enabled=true },
+  ["workshop-666155465"]={
+    configuration_options={
+      chestB=-1,
+      chestG=-1,
+      chestR=-1,
+      food_estimation=-1,
+      food_order=0,
+      food_style=0,
+      lang="auto",
+      show_food_units=-1,
+      show_uses=-1 
+    },
+    enabled=true 
+  } 
+}
