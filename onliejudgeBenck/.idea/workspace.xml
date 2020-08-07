@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b1be899-9a0a-4fba-92da-a3ea25e410c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ProjectId" id="1aALbJwav7WRsRs7WZfNJL49yfA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codes\onliejudgeBenck\apps\UserProfile" />
+      <recent name="D:\codes\onliejudgeBenck\apps" />
+      <recent name="D:\codes\onliejudgeBenck\apps\Api\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="onliejudgeBenck" type="Python.DjangoServer" factoryName="Django server">
+      <module name="onliejudgeBenck" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\小小戴pc\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="0.0.0.0" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="MySQL for 5.1 - test@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="MySQL for 5.1 - test@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@d098853" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="MySQL for 5.1 - test@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@6ef28e7e" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b1be899-9a0a-4fba-92da-a3ea25e410c4" name="Default Changelist" comment="" />
+      <created>1586173522757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586173522757</updated>
+      <workItem from="1586173529023" duration="10078000" />
+      <workItem from="1586264161691" duration="4010000" />
+      <workItem from="1586323823118" duration="8690000" />
+      <workItem from="1586355976055" duration="5687000" />
+      <workItem from="1586416178009" duration="8251000" />
+      <workItem from="1586498046817" duration="3394000" />
+      <workItem from="1586580988011" duration="17245000" />
+      <workItem from="1586692858478" duration="2241000" />
+      <workItem from="1586756601950" duration="8795000" />
+      <workItem from="1588054009798" duration="2581000" />
+      <workItem from="1588836370805" duration="61000" />
+      <workItem from="1593866599185" duration="4382000" />
+      <workItem from="1593873846917" duration="1667000" />
+      <workItem from="1593932271158" duration="11327000" />
+      <workItem from="1594023150674" duration="20048000" />
+      <workItem from="1594103770437" duration="3096000" />
+      <workItem from="1594444766073" duration="1319000" />
+      <workItem from="1594529270522" duration="1888000" />
+      <workItem from="1594963435932" duration="651000" />
+      <workItem from="1595585709763" duration="4446000" />
+      <workItem from="1595645260135" duration="4704000" />
+      <workItem from="1595733425382" duration="5630000" />
+      <workItem from="1595945806100" duration="6120000" />
+      <workItem from="1596199062557" duration="1197000" />
+      <workItem from="1596593785576" duration="1944000" />
+      <workItem from="1596680814366" duration="1076000" />
+      <workItem from="1596688356690" duration="6727000" />
+      <workItem from="1596770004284" duration="1867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594034605852">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="393" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1603.862@0.0.1603.862" timestamp="1594034605852" />
+    <state x="581" y="184" key="FileChooserDialogImpl" timestamp="1588836427626">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="581" y="184" key="FileChooserDialogImpl/0.0.1603.862@0.0.1603.862" timestamp="1588836427626" />
+    <state width="1559" height="237" key="GridCell.Tab.0.bottom" timestamp="1596781542551">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1559" height="237" key="GridCell.Tab.0.bottom/0.0.1603.862@0.0.1603.862" timestamp="1596781542551" />
+    <state width="1559" height="237" key="GridCell.Tab.0.center" timestamp="1596781542551">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1559" height="237" key="GridCell.Tab.0.center/0.0.1603.862@0.0.1603.862" timestamp="1596781542551" />
+    <state width="1559" height="237" key="GridCell.Tab.0.left" timestamp="1596781542550">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1559" height="237" key="GridCell.Tab.0.left/0.0.1603.862@0.0.1603.862" timestamp="1596781542550" />
+    <state width="1559" height="237" key="GridCell.Tab.0.right" timestamp="1596781542551">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1559" height="237" key="GridCell.Tab.0.right/0.0.1603.862@0.0.1603.862" timestamp="1596781542551" />
+    <state width="197" height="457" key="HiddenNamespacesPopup" timestamp="1594034682436">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="197" height="457" key="HiddenNamespacesPopup/0.0.1603.862@0.0.1603.862" timestamp="1594034682436" />
+    <state x="302" y="72" key="SettingsEditor" timestamp="1595763537088">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="302" y="72" key="SettingsEditor/0.0.1603.862@0.0.1603.862" timestamp="1595763537088" />
+    <state x="613" y="313" width="376" height="265" key="com.intellij.database.actions.DdlActions$CommentOnObjectAction$1" timestamp="1594046956511">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="613" y="313" width="376" height="265" key="com.intellij.database.actions.DdlActions$CommentOnObjectAction$1/0.0.1603.862@0.0.1603.862" timestamp="1594046956511" />
+    <state x="670" y="317" width="336" height="236" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1594048171975">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="670" y="317" width="336" height="236" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1603.862@0.0.1603.862" timestamp="1594048171975" />
+    <state x="555" y="184" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1594042549985">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="555" y="184" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1603.862@0.0.1603.862" timestamp="1594042549985" />
+    <state x="517" y="71" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1594046922353">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="517" y="71" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1603.862@0.0.1603.862" timestamp="1594046922353" />
+    <state x="316" y="26" key="com.intellij.database.view.ui.DatabasePreviewDialog" timestamp="1594048812472">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="316" y="26" key="com.intellij.database.view.ui.DatabasePreviewDialog/0.0.1603.862@0.0.1603.862" timestamp="1594048812472" />
+    <state x="307" y="135" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1594042552393">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="307" y="135" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1603.862@0.0.1603.862" timestamp="1594042552393" />
+    <state x="493" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1596770005716">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="493" y="254" key="com.intellij.ide.util.TipDialog/0.0.1603.862@0.0.1603.862" timestamp="1596770005716" />
+    <state x="463" y="183" width="672" height="678" key="search.everywhere.popup" timestamp="1594036286612">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="463" y="183" width="672" height="678" key="search.everywhere.popup/0.0.1603.862@0.0.1603.862" timestamp="1594036286612" />
+  </component>
+</project>
