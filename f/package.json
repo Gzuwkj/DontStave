@@ -17,7 +17,7 @@
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
     "chartjs": "^0.3.24",
-    "highlight.js": "^9.18.1",
+    "highlight.js": "^10.4.1",
     "highlightjs-line-numbers.js": "^2.7.0",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.1",
