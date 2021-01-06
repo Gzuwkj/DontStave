@@ -13,7 +13,7 @@
   "dependencies": {
     "@tinymce/tinymce-vue": "^3.2.0",
     "animate.css": "^4.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
     "chartjs": "^0.3.24",
